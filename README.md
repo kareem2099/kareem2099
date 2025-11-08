@@ -1,10 +1,12 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Karim — Building the Future of DevTools
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+
+# Hi there, I'm Karim!
+
+### Founder & Lead Developer @ DotSuite | Building AI-Powered DevTools
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Founder+%26+Lead+Developer+%40+DotSuite;AI+Security+%7C+DevOps+%7C+Developer+Wellness;15%2C000%2B+Lines+of+Production+ML+Code;Custom+LLM+Architect+%7C+Open+Source+Contributor" alt="Typing SVG" />
-
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freerave/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kareem.ehab20?mibextid=ZbWKwL)
@@ -49,16 +51,12 @@ class Karim extends Developer {
 
 ## 🔥 Power Projects — Used by Thousands of Developers
 
-<div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [dotenvy](https://github.com/kareem2099)
-#### AI-Powered Security Platform
-
-**10,000+ Active Users**
+### 🔐 dotenvy
+**AI-Powered Security Platform**
 
 The ultimate `.env` management solution with:
 - ✨ **Custom-built LLM** for real-time secret detection
@@ -66,21 +64,19 @@ The ultimate `.env` management solution with:
 - 🔒 **Enterprise-grade security** with AWS integration
 - 🎯 **Zero-config** setup for any project
 
-**Stack:** TypeScript • Custom LLM • VS Code API • AWS Secrets Manager
+**Stack:** TypeScript • Custom LLM • VS Code API • AWS
 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Impact:** Prevented 10,000+ accidental secret leaks
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [DOTCTL](https://github.com/kareem2099)
-#### Pro Network Security Suite
-
-**Enterprise Security Tool**
+### 🛡️ DOTCTL
+**Pro Network Security Suite**
 
 Advanced toolkit for security professionals:
 - 🕵️ **Traffic monitoring** & real-time analysis
@@ -90,9 +86,9 @@ Advanced toolkit for security professionals:
 
 **Stack:** Python • FastAPI • Network Security • ML
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=security&logoColor=white">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=security&logoColor=white)
 
 **Impact:** Used by security teams worldwide
 
@@ -102,12 +98,10 @@ Advanced toolkit for security professionals:
 <tr>
 <td width="50%" valign="top">
 
-### 🧘 [Break Bully](https://github.com/kareem2099)
-#### AI Wellness Coach
+### 🧘 Break Bully
+**AI Wellness Coach**
 
-**15,000+ Lines of ML Code**
-
-Your personal AI coach that:
+15,000+ lines of ML code that:
 - 🧠 **Analyzes work patterns** using behavioral ML
 - ⏰ **Prevents burnout** with smart reminders
 - 📊 **Tracks productivity** without surveillance
@@ -115,20 +109,18 @@ Your personal AI coach that:
 
 **Stack:** TypeScript • Machine Learning • Behavioral AI
 
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 **Impact:** Helped developers reclaim 1000+ hours
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [DotCommand](https://github.com/kareem2099)
-#### AI Command Manager
+### ⚡ DotCommand
+**AI Command Manager**
 
-**Revolutionary Terminal UI**
-
-Intelligent command management:
+Revolutionary terminal UI that provides:
 - 🤖 **AI-powered** command suggestions
 - 📋 **Project-aware** task management
 - 🔄 **Sync across machines** automatically
@@ -136,8 +128,8 @@ Intelligent command management:
 
 **Stack:** TypeScript • AI Integration • VS Code API
 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/AI-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white">
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![AI](https://img.shields.io/badge/AI-00D9FF?style=flat-square&logo=artificial-intelligence&logoColor=white)
 
 **Impact:** 50% faster command execution
 
@@ -147,10 +139,8 @@ Intelligent command management:
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 [DotDeploy](https://github.com/kareem2099)
-#### Smart Deployment Manager
-
-**DevOps Automation**
+### 🚀 DotDeploy
+**Smart Deployment Manager**
 
 Secure CI/CD made simple:
 - 🔐 **Just-in-time secret fetching**
@@ -160,8 +150,8 @@ Secure CI/CD made simple:
 
 **Stack:** TypeScript • Docker • GitHub Actions • AWS
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 **Impact:** 10x faster deployment pipelines
 
@@ -183,8 +173,6 @@ Check my repos for the full collection →
 </td>
 </tr>
 </table>
-
-</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -212,6 +200,7 @@ Check my repos for the full collection →
 ### 🤖 AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -257,39 +246,6 @@ Check my repos for the full collection →
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=kareem2099&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🎯 What Drives Me
-
-<div align="center">
-
-```javascript
-const passion = {
-  why: "Every line of code brings me closer to my dream",
-  mission: "Build tools that make developers' lives better",
-  goal: "Create sustainable open source while building my future",
-  dream: "Marry the love of my life 💍",
-  
-  daily_routine: {
-    morning: "☕ Coffee + Code Review",
-    afternoon: "🚀 Building new features",
-    evening: "🧠 Learning & Community engagement",
-    night: "💻 Open source contributions"
-  },
-  
-  current_stats: {
-    hours_coding: "10,000+",
-    projects_shipped: "20+",
-    developers_helped: "10,000+",
-    coffee_consumed: "∞"
-  }
-};
-```
 
 </div>
 
@@ -372,7 +328,6 @@ I'm a **solo developer** pouring my heart into these tools. I'm not just buildin
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem2099@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freerave/)
-[![Schedule Meeting](https://img.shields.io/badge/📅_Schedule_a_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](mailto:kareem2099@gmail.com)
 
 </div>
 
