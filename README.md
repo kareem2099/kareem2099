@@ -1036,7 +1036,7 @@ const goals_2025 = {
 ![GitHub followers](https://img.shields.io/github/followers/kareem2099?style=for-the-badge&color=00ff88&label=FOLLOWERS)
 ![GitHub Stars](https://img.shields.io/github/stars/kareem2099?style=for-the-badge&color=ff0080&label=TOTAL+STARS)
 
-![Repos](https://img.shields.io/github/public-repos/kareem2099?style=for-the-badge&color=00D9FF&label=PUBLIC+REPOS)
+![Repos](https://img.shields.io/badge/dynamic/json?color=00D9FF&label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkareem2099&style=for-the-badge&logo=github&logoColor=white)
 ![Commits](https://img.shields.io/github/last-commit/kareem2099/kareem2099?style=for-the-badge&color=00ff88&label=LAST+COMMIT)
 
 </div>
