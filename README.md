@@ -167,7 +167,7 @@ console.log("🌐 Portfolio: https://portfolio-workzilla.vercel.app/en");
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/kareem2099/kareem2099/main/.github/assets/dotenvy.png" width="20"/> 🔐 **dotenvy** — AI Security Platform
+### <img src="https://FreeRave.gallerycdn.vsassets.io/extensions/freerave/dotenvy/1.3.0/1766956361829/Microsoft.VisualStudio.Services.Icons.Default" width="30"/> **dotenvy** — AI Security Platform
 
 <img src="https://img.shields.io/badge/STATUS-🔥_PRODUCTION-00ff00?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/TYPE-VS_CODE_EXTENSION-007ACC?style=for-the-badge&labelColor=000000"/>
@@ -231,7 +231,7 @@ console.log("🌐 Portfolio: https://portfolio-workzilla.vercel.app/en");
 <tr>
 <td width="50%" valign="top">
 
-### 🧘 **DotSense** — AI Wellness Coach
+### <img src="https://FreeRave.gallerycdn.vsassets.io/extensions/freerave/dotsense/1.3.0/1767900659573/Microsoft.VisualStudio.Services.Icons.Default" width="30"/> **DotSense** — AI Wellness Coach
 
 <img src="https://img.shields.io/badge/STATUS-🔥_PRODUCTION-00ff00?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/TYPE-VS_CODE_EXTENSION-007ACC?style=for-the-badge&labelColor=000000"/>
@@ -267,7 +267,7 @@ console.log("🌐 Portfolio: https://portfolio-workzilla.vercel.app/en");
 </td>
 <td width="50%" valign="top">
 
-### ⚡ **DotCommand** — AI Terminal
+### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotcommand/1.4.0/1768342022802/Microsoft.VisualStudio.Services.Icons.Default" width="30"/> **DotCommand** — AI Terminal
 
 <img src="https://img.shields.io/badge/STATUS-🔥_PRODUCTION-00ff00?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/TYPE-VS_CODE_EXTENSION-007ACC?style=for-the-badge&labelColor=000000"/>
@@ -305,7 +305,7 @@ Time Saved: 50%+
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 **DotShare** — Code Sharing Made Easy
+### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotshare/2.1.0/1766614875942/Microsoft.VisualStudio.Services.Icons.Default" width="30"/> **DotShare** — Code Sharing Made Easy
 
 <img src="https://img.shields.io/badge/STATUS-🔥_PRODUCTION-00ff00?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/TYPE-VS_CODE_EXTENSION-007ACC?style=for-the-badge&labelColor=000000"/>
@@ -335,7 +335,7 @@ Time Saved: 50%+
 </td>
 <td width="50%" valign="top">
 
-### 🚀 **DotFetch** — Professional HTTP Client
+ ### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotfetch/1.0.0/1768504445024/Microsoft.VisualStudio.Services.Icons.Default" width="30"/> **DotFetch** — Professional HTTP Client
 
 <img src="https://img.shields.io/badge/STATUS-🔥_PRODUCTION-00ff00?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/TYPE-VS_CODE_EXTENSION-007ACC?style=for-the-badge&labelColor=000000"/>
@@ -384,19 +384,19 @@ Time Saved: 50%+
 
 The DotSuite is a comprehensive ecosystem of developer tools designed to enhance productivity, security, and wellness in your development workflow.
 
-#### 🔐 **DotEnvy** — AI Security Platform
+#### <img src="https://FreeRave.gallerycdn.vsassets.io/extensions/freerave/dotenvy/1.3.0/1766956361829/Microsoft.VisualStudio.Services.Icons.Default" width="20"/> **DotEnvy** — AI Security Platform
 Smart `.env` management with ML-powered secret detection
 
-#### 🧘 **DotSense** — Wellness Coach  
+#### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotsense/1.3.0/1767900659573/Microsoft.VisualStudio.Services.Icons.Default" width="20"/> **DotSense** — Wellness Coach  
 Behavioral ML prevents burnout & boosts productivity
 
-#### ⚡ **DotCommand** — AI Terminal
+#### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotcommand/1.4.0/1768342022802/Microsoft.VisualStudio.Services.Icons.Default" width="20"/> **DotCommand** — AI Terminal
 Intelligent command history with AI suggestions
 
-#### 🚀 **DotShare** — Code Sharing
+#### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotshare/2.1.0/1766614875942/Microsoft.VisualStudio.Services.Icons.Default" width="20"/> **DotShare** — Code Sharing
 Instant secure code sharing with beautiful previews
 
-#### 🌐 **DotFetch** — HTTP Client
+#### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotfetch/1.0.0/1768504445024/Microsoft.VisualStudio.Services.Icons.Default" width="20"/> **DotFetch** — HTTP Client
 Professional API testing right in VS Code
 
 ---
@@ -987,6 +987,14 @@ const goals_2027 = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+
+<div align="center">
+
+## ✍️ LATEST WRITINGS — TECH THOUGHTS
+
+</div>
+
+<br><br>
 
 ## 💬 INSPIRATIONAL QUOTE
 
