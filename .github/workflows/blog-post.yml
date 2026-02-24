@@ -21,3 +21,9 @@ jobs:
           template: "$newline- [$title]($url) $newline"
           readme_path: "README.md"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📝 Update blog posts"
+          file_pattern: "README.md"
