@@ -993,6 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Prevent Accidental Password Leaks in Your Node.js APIs](https://freerave.medium.com/how-to-prevent-accidental-password-leaks-in-your-node-js-apis-6f48f41b7756?source=rss-af64049c9005------2) 
+
+- [How to Prevent Accidental Password Leaks in Your Node.js APIs 🛡️](https://dev.to/freerave/how-to-prevent-accidental-password-leaks-in-your-nodejs-apis-24k7) 
+
+- [ShowDev: Testing my VS Code Extension&#39;s ML Engine &lpar;60 tests in 16ms&rpar;](https://dev.to/freerave/showdev-testing-my-vs-code-extensions-ml-engine-60-tests-in-16ms-2gdg) 
+
+- [Building the “Brain” Before the Beauty: Inside DotCommand v1.5.0](https://medium.com/codex/building-the-brain-before-the-beauty-inside-dotcommand-v1-5-0-2eba0e3baeb3?source=rss-af64049c9005------2) 
+
+- [Building the Brain of My VS Code Extension 🧠 &lpar;v1.5.0 Devlog&rpar;](https://dev.to/freerave/building-the-brain-of-my-vs-code-extension-v150-devlog-2ja4) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
