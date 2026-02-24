@@ -992,6 +992,9 @@ const goals_2027 = {
 
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 </div>
 
 <br><br>
