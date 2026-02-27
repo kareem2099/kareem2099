@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [The Worst Wi-Fi Security Advice I Found on Facebook &lpar;And Why It’s a Hacker’s Dream&rpar;](https://freerave.medium.com/the-worst-wi-fi-security-advice-i-found-on-facebook-and-why-its-a-hacker-s-dream-bebfcf1e86fb?source=rss-af64049c9005------2) 
+
+- [title: The Worst Wi-Fi Security Advice I Found on Facebook 🤦‍♂️ &lpar;And Why It&#39;s Dangerous&rpar;](https://dev.to/freerave/title-the-worst-wi-fi-security-advice-i-found-on-facebook-and-why-its-dangerous-3dam) 
+
 - [How I Accidentally DDoS’d My Own App &lpar;And Why You Need to Debounce&rpar;](https://freerave.medium.com/how-i-accidentally-ddosd-my-own-app-and-why-you-need-to-debounce-f2ae1c4e0e9f?source=rss-af64049c9005------2) 
 
 - [title: How I Accidentally DDoS&#39;d My Own API &lpar;And the 2-Line React Fix&rpar; 🤡](https://dev.to/freerave/title-how-i-accidentally-ddosd-my-own-api-and-the-2-line-react-fix-5ffm) 
 
 - [How to Prevent Accidental Password Leaks in Your Node.js APIs](https://freerave.medium.com/how-to-prevent-accidental-password-leaks-in-your-node-js-apis-6f48f41b7756?source=rss-af64049c9005------2) 
-
-- [How to Prevent Accidental Password Leaks in Your Node.js APIs 🛡️](https://dev.to/freerave/how-to-prevent-accidental-password-leaks-in-your-nodejs-apis-24k7) 
-
-- [ShowDev: Testing my VS Code Extension&#39;s ML Engine &lpar;60 tests in 16ms&rpar;](https://dev.to/freerave/showdev-testing-my-vs-code-extensions-ml-engine-60-tests-in-16ms-2gdg) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
