@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a VS Code Extension to Balance Deep Work and Spiritual Goals](https://freerave.medium.com/how-i-built-a-vs-code-extension-to-balance-deep-work-and-spiritual-goals-e84a400f3001?source=rss-af64049c9005------2) 
+
+- [Balancing Deep Work and Spiritual Goals: Introducing CodeTune v1.1.0](https://dev.to/freerave/balancing-deep-work-and-spiritual-goals-introducing-codetune-v110-10om) 
+
 - [Building a Scalable Review System from Scratch: Lessons from DotSuite v0.5.0](https://freerave.medium.com/building-a-scalable-review-system-from-scratch-lessons-from-dotsuite-v0-5-0-f34f0b4c958d?source=rss-af64049c9005------2) 
 
 - [How I Built a Production-Ready Reviews System &lpar;MongoDB Aggregation, Custom Toasts &amp; CSS Variables&rpar;](https://dev.to/freerave/how-i-built-a-production-ready-reviews-system-mongodb-aggregation-custom-toasts-css-variables-2a84) 
 
 - [The Worst Wi-Fi Security Advice I Found on Facebook &lpar;And Why It’s a Hacker’s Dream&rpar;](https://freerave.medium.com/the-worst-wi-fi-security-advice-i-found-on-facebook-and-why-its-a-hacker-s-dream-bebfcf1e86fb?source=rss-af64049c9005------2) 
-
-- [title: The Worst Wi-Fi Security Advice I Found on Facebook 🤦‍♂️ &lpar;And Why It&#39;s Dangerous&rpar;](https://dev.to/freerave/title-the-worst-wi-fi-security-advice-i-found-on-facebook-and-why-its-dangerous-3dam) 
-
-- [How I Accidentally DDoS’d My Own App &lpar;And Why You Need to Debounce&rpar;](https://freerave.medium.com/how-i-accidentally-ddosd-my-own-app-and-why-you-need-to-debounce-f2ae1c4e0e9f?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
