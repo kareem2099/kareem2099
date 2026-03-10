@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Completed a 4-Week MongoDB Challenge in 3 Weeks](https://freerave.medium.com/how-i-completed-a-4-week-mongodb-challenge-in-3-weeks-1926f26f1990?source=rss-af64049c9005------2) 
+
+- [How I Finished a 4-Week MongoDB Challenge in 3 Weeks &lpar;The Power of Research&rpar;](https://dev.to/freerave/how-i-finished-a-4-week-mongodb-challenge-in-3-weeks-the-power-of-research-1g8h) 
+
 - [1,000+ Followers on DEV: Building the DotSuite Ecosystem from the Terminal Up](https://freerave.medium.com/1-000-followers-on-dev-building-the-dotsuite-ecosystem-from-the-terminal-up-cc2f9788c769?source=rss-af64049c9005------2) 
 
 - [1,000+ Followers! The DotSuite Ecosystem is Scaling](https://dev.to/freerave/1000-followers-the-dotsuite-ecosystem-is-scaling-2epo) 
 
 - [How I Built a VS Code Extension to Balance Deep Work and Spiritual Goals](https://freerave.medium.com/how-i-built-a-vs-code-extension-to-balance-deep-work-and-spiritual-goals-e84a400f3001?source=rss-af64049c9005------2) 
-
-- [Balancing Deep Work and Spiritual Goals: Introducing CodeTune v1.1.0](https://dev.to/freerave/balancing-deep-work-and-spiritual-goals-introducing-codetune-v110-10om) 
-
-- [Building a Scalable Review System from Scratch: Lessons from DotSuite v0.5.0](https://freerave.medium.com/building-a-scalable-review-system-from-scratch-lessons-from-dotsuite-v0-5-0-f34f0b4c958d?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
