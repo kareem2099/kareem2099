@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Fixed the Most Annoying Part of VS Code Extensions: Authentication](https://freerave.medium.com/how-i-fixed-the-most-annoying-part-of-vs-code-extensions-authentication-3b2342eb9f39?source=rss-af64049c9005------2) 
+
+- [I Built a 1-Click OAuth Flow for VS Code to Stop Copying API Keys](https://dev.to/freerave/i-built-a-1-click-oauth-flow-for-vs-code-to-stop-copying-api-keys-257i) 
+
 - [How I Completed a 4-Week MongoDB Challenge in 3 Weeks](https://freerave.medium.com/how-i-completed-a-4-week-mongodb-challenge-in-3-weeks-1926f26f1990?source=rss-af64049c9005------2) 
 
 - [How I Finished a 4-Week MongoDB Challenge in 3 Weeks &lpar;The Power of Research&rpar;](https://dev.to/freerave/how-i-finished-a-4-week-mongodb-challenge-in-3-weeks-the-power-of-research-1g8h) 
 
 - [1,000+ Followers on DEV: Building the DotSuite Ecosystem from the Terminal Up](https://freerave.medium.com/1-000-followers-on-dev-building-the-dotsuite-ecosystem-from-the-terminal-up-cc2f9788c769?source=rss-af64049c9005------2) 
-
-- [1,000+ Followers! The DotSuite Ecosystem is Scaling](https://dev.to/freerave/1000-followers-the-dotsuite-ecosystem-is-scaling-2epo) 
-
-- [How I Built a VS Code Extension to Balance Deep Work and Spiritual Goals](https://freerave.medium.com/how-i-built-a-vs-code-extension-to-balance-deep-work-and-spiritual-goals-e84a400f3001?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
