@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [Why AI Fails at Bleeding-Edge Updates: Fixing the AGP 9.1.0 + KSP Nightmare](https://freerave.medium.com/why-ai-fails-at-bleeding-edge-updates-fixing-the-agp-9-1-0-ksp-nightmare-6ea745f4bb4c?source=rss-af64049c9005------2) 
+
+- [Why AI Fails at Bleeding-Edge Updates: Fixing the AGP 9.1.0 + KSP Nightmare](https://dev.to/freerave/why-ai-fails-at-bleeding-edge-updates-fixing-the-agp-910-ksp-nightmare-bkk) 
+
 - [Stop Writing READMEs Manually: How I Brought AI Directly into VS Code](https://freerave.medium.com/stop-writing-readmes-manually-how-i-brought-ai-directly-into-vs-code-7005f6e7cc64?source=rss-af64049c9005------2) 
 
 - [I Built an AI README Generator Inside VS Code &lpar;BYOK&rpar;](https://dev.to/freerave/i-built-an-ai-readme-generator-inside-vs-code-byok-2ci0) 
 
 - [How I Fixed the Most Annoying Part of VS Code Extensions: Authentication](https://freerave.medium.com/how-i-fixed-the-most-annoying-part-of-vs-code-extensions-authentication-3b2342eb9f39?source=rss-af64049c9005------2) 
-
-- [I Built a 1-Click OAuth Flow for VS Code to Stop Copying API Keys](https://dev.to/freerave/i-built-a-1-click-oauth-flow-for-vs-code-to-stop-copying-api-keys-257i) 
-
-- [How I Completed a 4-Week MongoDB Challenge in 3 Weeks](https://freerave.medium.com/how-i-completed-a-4-week-mongodb-challenge-in-3-weeks-1926f26f1990?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
