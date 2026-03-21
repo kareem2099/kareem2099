@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Full HTTP Client Extension for VS Code — Here’s Everything I Learned](https://freerave.medium.com/i-built-a-full-http-client-extension-for-vs-code-heres-everything-i-learned-cd164f3081f5?source=rss-af64049c9005------2) 
+
+- [I Built a Full HTTP Client Extension for VS Code — Here&#39;s Everything I Learned](https://dev.to/freerave/i-built-a-full-http-client-extension-for-vs-code-heres-everything-i-learned-3me4) 
+
 - [I Built a VS Code Extension That Learns From Your Mistakes — Here’s the Engineering Behind It](https://freerave.medium.com/i-built-a-vs-code-extension-that-learns-from-your-mistakes-heres-the-engineering-behind-it-2cacf71a3b20?source=rss-af64049c9005------2) 
 
 - [I Built an AI-Powered .env Manager for VS Code — Here&#39;s What I Learned](https://dev.to/freerave/i-built-an-ai-powered-env-manager-for-vs-code-heres-what-i-learned-1j64) 
 
 - [I Had 3 Abandoned Apps, Then Kotlin Pulled Me Back In](https://freerave.medium.com/i-had-3-abandoned-apps-then-kotlin-pulled-me-back-in-34d1f526e714?source=rss-af64049c9005------2) 
-
-- [I Had 3 Abandoned Apps, Then Kotlin Pulled Me Back In](https://dev.to/freerave/i-had-3-abandoned-apps-then-kotlin-pulled-me-back-in-1kh1) 
-
-- [Why AI Fails at Bleeding-Edge Updates: Fixing the AGP 9.1.0 + KSP Nightmare](https://freerave.medium.com/why-ai-fails-at-bleeding-edge-updates-fixing-the-agp-9-1-0-ksp-nightmare-6ea745f4bb4c?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
