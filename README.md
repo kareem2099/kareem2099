@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [The Gym Ate My App: Building a Crash-Resistant Android Workout Tracker](https://freerave.medium.com/the-gym-ate-my-app-building-a-crash-resistant-android-workout-tracker-4e0ba6f3ffbc?source=rss-af64049c9005------2) 
+
+- [How I Built a Crash-Resistant Workout Tracker: Shredzilla v1.2.0 Deep Dive](https://dev.to/freerave/how-i-built-a-crash-resistant-workout-tracker-shredzilla-v120-deep-dive-1441) 
+
 - [Architecting Shredzilla: Surviving Process Death and Slaying Memory Leaks in Jetpack Compose](https://freerave.medium.com/architecting-shredzilla-surviving-process-death-and-slaying-memory-leaks-in-jetpack-compose-d1d45bff5706?source=rss-af64049c9005------2) 
 
 - [Scaling Shredzilla: Slaying Memory Leaks &amp; Mastering State in Jetpack Compose](https://dev.to/freerave/scaling-shredzilla-slaying-memory-leaks-mastering-state-in-jetpack-compose-10ff) 
 
 - [I Built a Full HTTP Client Extension for VS Code — Here’s Everything I Learned](https://medium.com/codex/i-built-a-full-http-client-extension-for-vs-code-heres-everything-i-learned-cd164f3081f5?source=rss-af64049c9005------2) 
-
-- [I Built a Full HTTP Client Extension for VS Code — Here&#39;s Everything I Learned](https://dev.to/freerave/i-built-a-full-http-client-extension-for-vs-code-heres-everything-i-learned-3me4) 
-
-- [I Built a VS Code Extension That Learns From Your Mistakes — Here’s the Engineering Behind It](https://freerave.medium.com/i-built-a-vs-code-extension-that-learns-from-your-mistakes-heres-the-engineering-behind-it-2cacf71a3b20?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
