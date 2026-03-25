@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a Native Visual UI Inside VS Code &lpar;And Ditched JSON Configs&rpar;](https://freerave.medium.com/why-i-built-a-native-visual-ui-inside-vs-code-and-ditched-json-configs-c77387e502a6?source=rss-af64049c9005------2) 
+- [Why I Built My Own Clipboard Manager for Kali Linux &lpar;and why you should stop using keyloggers&rpar;](https://freerave.medium.com/why-i-built-my-own-clipboard-manager-for-kali-linux-and-why-you-should-stop-using-keyloggers-373a96e8e668?source=rss-af64049c9005------2) 
+
+- [I Built a Clipboard Manager for Kali Linux — And Learned Way More Than Expected](https://dev.to/freerave/i-built-a-clipboard-manager-for-kali-linux-and-learned-way-more-than-expected-3hm9) 
+
+- [Why I Built a Native Visual UI Inside VS Code &lpar;And Ditched JSON Configs&rpar;](https://blog.devops.dev/why-i-built-a-native-visual-ui-inside-vs-code-and-ditched-json-configs-c77387e502a6?source=rss-af64049c9005------2) 
 
 - [I Got Tired of Writing JSON Configs, So I Built a Visual UI Inside VS Code &lpar;DotCommand v2.0&rpar;](https://dev.to/freerave/i-got-tired-of-writing-json-configs-so-i-built-a-visual-ui-inside-vs-code-dotcommand-v20-24o5) 
 
 - [The Gym Ate My App: Building a Crash-Resistant Android Workout Tracker](https://freerave.medium.com/the-gym-ate-my-app-building-a-crash-resistant-android-workout-tracker-4e0ba6f3ffbc?source=rss-af64049c9005------2) 
-
-- [How I Built a Crash-Resistant Workout Tracker: Shredzilla v1.2.0 Deep Dive](https://dev.to/freerave/how-i-built-a-crash-resistant-workout-tracker-shredzilla-v120-deep-dive-1441) 
-
-- [Architecting Shredzilla: Surviving Process Death and Slaying Memory Leaks in Jetpack Compose](https://freerave.medium.com/architecting-shredzilla-surviving-process-death-and-slaying-memory-leaks-in-jetpack-compose-d1d45bff5706?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
