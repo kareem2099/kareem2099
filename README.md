@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [DotGhostBoard v1.3.0 “Wraith”: Building a Tagging, Collections &amp; Multi-Select System from Scratch](https://freerave.medium.com/dotghostboard-v1-3-0-wraith-building-a-tagging-collections-multi-select-system-from-scratch-14a12663517a?source=rss-af64049c9005------2) 
+
+- [DotGhostBoard v1.3.0 &quot;Wraith&quot; — Tags, Collections, Multi-Select &amp; Export 👻](https://dev.to/freerave/dotghostboard-v130-wraith-tags-collections-multi-select-export-1d0d) 
+
 - [Why I Built My Own Clipboard Manager for Kali Linux &lpar;and why you should stop using keyloggers&rpar;](https://freerave.medium.com/why-i-built-my-own-clipboard-manager-for-kali-linux-and-why-you-should-stop-using-keyloggers-373a96e8e668?source=rss-af64049c9005------2) 
 
 - [I Built a Clipboard Manager for Kali Linux — And Learned Way More Than Expected](https://dev.to/freerave/i-built-a-clipboard-manager-for-kali-linux-and-learned-way-more-than-expected-3hm9) 
 
 - [Why I Built a Native Visual UI Inside VS Code &lpar;And Ditched JSON Configs&rpar;](https://blog.devops.dev/why-i-built-a-native-visual-ui-inside-vs-code-and-ditched-json-configs-c77387e502a6?source=rss-af64049c9005------2) 
-
-- [I Got Tired of Writing JSON Configs, So I Built a Visual UI Inside VS Code &lpar;DotCommand v2.0&rpar;](https://dev.to/freerave/i-got-tired-of-writing-json-configs-so-i-built-a-visual-ui-inside-vs-code-dotcommand-v20-24o5) 
-
-- [The Gym Ate My App: Building a Crash-Resistant Android Workout Tracker](https://freerave.medium.com/the-gym-ate-my-app-building-a-crash-resistant-android-workout-tracker-4e0ba6f3ffbc?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
