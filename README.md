@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Clipboard Manager for Linux with AES-256 Encryption](https://medium.com/codex/i-built-a-clipboard-manager-for-linux-with-aes-256-encryption-1a08c0bdb1ae?source=rss-af64049c9005------2) 
+
+- [I Built a Clipboard Manager for Linux with AES-256 Encryption — DotGhostBoard v1.4.0 Eclipse](https://dev.to/freerave/i-built-a-clipboard-manager-for-linux-with-aes-256-encryption-dotghostboard-v140-eclipse-3lpd) 
+
 - [Building CodeTune v1.2.0: How I Taught a VS Code Extension to Think in Islamic Time](https://freerave.medium.com/building-codetune-v1-2-0-how-i-taught-a-vs-code-extension-to-think-in-islamic-time-51b293142d9c?source=rss-af64049c9005------2) 
 
 - [Building CodeTune v1.2.0: Islamic Date Tracking &amp; Audio Sync in a VS Code Extension](https://dev.to/freerave/building-codetune-v120-islamic-date-tracking-audio-sync-in-a-vs-code-extension-4oh9) 
 
 - [DotGhostBoard v1.3.0 “Wraith”: Building a Tagging, Collections &amp; Multi-Select System from Scratch](https://freerave.medium.com/dotghostboard-v1-3-0-wraith-building-a-tagging-collections-multi-select-system-from-scratch-14a12663517a?source=rss-af64049c9005------2) 
-
-- [DotGhostBoard v1.3.0 &quot;Wraith&quot; — Tags, Collections, Multi-Select &amp; Export 👻](https://dev.to/freerave/dotghostboard-v130-wraith-tags-collections-multi-select-export-1d0d) 
-
-- [Why I Built My Own Clipboard Manager for Kali Linux &lpar;and why you should stop using keyloggers&rpar;](https://medium.com/codex/why-i-built-my-own-clipboard-manager-for-kali-linux-and-why-you-should-stop-using-keyloggers-373a96e8e668?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
