@@ -993,6 +993,8 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [The Claude CLI &quot;Leak&quot;: Nobody Won, AI Still Hallucinates, and Companies Are Still Making the Same Mistake](https://dev.to/freerave/the-claude-cli-leak-nobody-won-ai-still-hallucinates-and-companies-are-still-making-the-same-1hle) 
+
 - [Why I Ditched Frameworks to Build a Cyberpunk Terminal Portfolio](https://freerave.medium.com/why-i-ditched-frameworks-to-build-a-cyberpunk-terminal-portfolio-5bf12c1b1da3?source=rss-af64049c9005------2) 
 
 - [I Built 20+ Open-Source Tools and a Cyberpunk Terminal Portfolio to Showcase Them All](https://dev.to/freerave/i-built-20-open-source-tools-and-a-cyberpunk-terminal-portfolio-to-showcase-them-all-25nb) 
@@ -1000,8 +1002,6 @@ const goals_2027 = {
 - [I Built a Clipboard Manager for Linux with AES-256 Encryption](https://freerave.medium.com/i-built-a-clipboard-manager-for-linux-with-aes-256-encryption-1a08c0bdb1ae?source=rss-af64049c9005------2) 
 
 - [I Built a Clipboard Manager for Linux with AES-256 Encryption — DotGhostBoard v1.4.0 Eclipse](https://dev.to/freerave/i-built-a-clipboard-manager-for-linux-with-aes-256-encryption-dotghostboard-v140-eclipse-3lpd) 
-
-- [Building CodeTune v1.2.0: How I Taught a VS Code Extension to Think in Islamic Time](https://freerave.medium.com/building-codetune-v1-2-0-how-i-taught-a-vs-code-extension-to-think-in-islamic-time-51b293142d9c?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
