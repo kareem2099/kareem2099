@@ -993,6 +993,8 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Production-Ready OAuth Server for a VS Code Extension — Token Lifecycle, Auto-Refresh &amp; Edge Rate Limiting](https://dev.to/freerave/building-a-production-ready-oauth-server-for-a-vs-code-extension-token-lifecycle-auto-refresh--45pl) 
+
 - [DotShare v3.0 Test Article](https://dev.to/freerave/dotshare-v30-test-article-555c) 
 
 - [The Claude CLI &quot;Leak&quot;: Nobody Won, AI Still Hallucinates, and Companies Are Still Making the Same Mistake](https://dev.to/freerave/the-claude-cli-leak-nobody-won-ai-still-hallucinates-and-companies-are-still-making-the-same-1hle) 
@@ -1000,8 +1002,6 @@ const goals_2027 = {
 - [Why I Ditched Frameworks to Build a Cyberpunk Terminal Portfolio](https://freerave.medium.com/why-i-ditched-frameworks-to-build-a-cyberpunk-terminal-portfolio-5bf12c1b1da3?source=rss-af64049c9005------2) 
 
 - [I Built 20+ Open-Source Tools and a Cyberpunk Terminal Portfolio to Showcase Them All](https://dev.to/freerave/i-built-20-open-source-tools-and-a-cyberpunk-terminal-portfolio-to-showcase-them-all-25nb) 
-
-- [I Built a Clipboard Manager for Linux with AES-256 Encryption](https://freerave.medium.com/i-built-a-clipboard-manager-for-linux-with-aes-256-encryption-1a08c0bdb1ae?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
