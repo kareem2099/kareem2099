@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [I Got Tired of Leaving VS Code to Publish My Articles. So I Fixed It](https://freerave.medium.com/i-got-tired-of-leaving-vs-code-to-publish-my-articles-so-i-fixed-it-bbdffac291f4?source=rss-af64049c9005------2) 
+
+- [DotShare v3.0 — I Built a Full Publishing Suite Inside VS Code &lpar;And What I Learned&rpar;](https://dev.to/freerave/dotshare-v30-i-built-a-full-publishing-suite-inside-vs-code-and-what-i-learned-18m0) 
+
 - [Building a Production-Ready OAuth Server for a VS Code Extension — Token Lifecycle, Auto-Refresh &amp; Edge Rate Limiting](https://dev.to/freerave/building-a-production-ready-oauth-server-for-a-vs-code-extension-token-lifecycle-auto-refresh--45pl) 
 
 - [DotShare v3.0 Test Article](https://dev.to/freerave/dotshare-v30-test-article-555c) 
 
 - [The Claude CLI &quot;Leak&quot;: Nobody Won, AI Still Hallucinates, and Companies Are Still Making the Same Mistake](https://dev.to/freerave/the-claude-cli-leak-nobody-won-ai-still-hallucinates-and-companies-are-still-making-the-same-1hle) 
-
-- [Why I Ditched Frameworks to Build a Cyberpunk Terminal Portfolio](https://freerave.medium.com/why-i-ditched-frameworks-to-build-a-cyberpunk-terminal-portfolio-5bf12c1b1da3?source=rss-af64049c9005------2) 
-
-- [I Built 20+ Open-Source Tools and a Cyberpunk Terminal Portfolio to Showcase Them All](https://dev.to/freerave/i-built-20-open-source-tools-and-a-cyberpunk-terminal-portfolio-to-showcase-them-all-25nb) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
