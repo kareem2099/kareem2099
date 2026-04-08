@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [Conquering the Reddit API: How to Natively Upload Images via Node.js](https://freerave.medium.com/conquering-the-reddit-api-how-to-natively-upload-images-via-node-js-dd5ede627e73?source=rss-af64049c9005------2) 
+
+- [Conquering the Reddit API: How to Natively Upload Images via Node.js &lpar;And Survive the S3 Boss Fight&rpar;](https://dev.to/freerave/conquering-the-reddit-api-how-to-natively-upload-images-via-nodejs-and-survive-the-s3-boss-fight-1b21) 
+
 - [I Got Tired of Leaving VS Code to Publish My Articles. So I Fixed It](https://freerave.medium.com/i-got-tired-of-leaving-vs-code-to-publish-my-articles-so-i-fixed-it-bbdffac291f4?source=rss-af64049c9005------2) 
 
 - [DotShare v3.0 — I Built a Full Publishing Suite Inside VS Code &lpar;And What I Learned&rpar;](https://dev.to/freerave/dotshare-v30-i-built-a-full-publishing-suite-inside-vs-code-and-what-i-learned-18m0) 
 
 - [Building a Production-Ready OAuth Server for a VS Code Extension — Token Lifecycle, Auto-Refresh &amp; Edge Rate Limiting](https://dev.to/freerave/building-a-production-ready-oauth-server-for-a-vs-code-extension-token-lifecycle-auto-refresh--45pl) 
-
-- [DotShare v3.0 Test Article](https://dev.to/freerave/dotshare-v30-test-article-555c) 
-
-- [The Claude CLI &quot;Leak&quot;: Nobody Won, AI Still Hallucinates, and Companies Are Still Making the Same Mistake](https://dev.to/freerave/the-claude-cli-leak-nobody-won-ai-still-hallucinates-and-companies-are-still-making-the-same-1hle) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
