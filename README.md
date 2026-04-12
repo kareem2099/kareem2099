@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [I Got Badges 1, 2, and 4 on DEV.to — Badge #3 Is Currently in Witness Protection](https://dev.to/freerave/i-got-badges-1-2-and-4-on-devto-badge-3-is-currently-in-witness-protection-he4) 
+
+- [The AI “Revolution” Has a Dirty Secret — and a Leaked CLI Just Proved It](https://medium.com/codex/the-ai-revolution-has-a-dirty-secret-and-a-leaked-cli-just-proved-it-1accefba50a6?source=rss-af64049c9005------2) 
+
 - [EXPOSED: The “Youdao Ads” Influencer Marketing Scam](https://freerave.medium.com/exposed-the-youdao-ads-influencer-marketing-scam-e389a0fb3f3c?source=rss-af64049c9005------2) 
 
 - [EXPOSED: The Youdao Ads Influencer Marketing Scam - Technical Analysis &amp; Red Flags](https://dev.to/freerave/exposed-the-youdao-ads-influencer-marketing-scam-technical-analysis-red-flags-5cag) 
 
 - [Conquering the Reddit API: How to Natively Upload Images via Node.js](https://freerave.medium.com/conquering-the-reddit-api-how-to-natively-upload-images-via-node-js-dd5ede627e73?source=rss-af64049c9005------2) 
-
-- [Conquering the Reddit API: How to Natively Upload Images via Node.js &lpar;And Survive the S3 Boss Fight&rpar;](https://dev.to/freerave/conquering-the-reddit-api-how-to-natively-upload-images-via-nodejs-and-survive-the-s3-boss-fight-1b21) 
-
-- [I Got Tired of Leaving VS Code to Publish My Articles. So I Fixed It](https://freerave.medium.com/i-got-tired-of-leaving-vs-code-to-publish-my-articles-so-i-fixed-it-bbdffac291f4?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
