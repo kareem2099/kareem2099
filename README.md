@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineering Nexus: How I Built Secure E2EE Network Sync Into a Linux Clipboard Manager](https://infosecwriteups.com/engineering-nexus-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-70f9d01fddda?source=rss-af64049c9005------2) 
+
+- [Engineering the Nexus Release: How I Built Secure E2EE Network Sync into a Linux Clipboard Manager &lpar;v1.5.1&rpar;](https://dev.to/freerave/engineering-the-nexus-release-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-3ocd) 
+
 - [DotShare v3.1 — Toast Engine, Race Condition Fix, and Surviving Reddit&#39;s S3 Upload Pipeline](https://dev.to/freerave/dotshare-v31-toast-engine-race-condition-fix-and-surviving-reddits-s3-upload-pipeline-d8b) 
 
 - [DotShare v3.0 — I Turned My VS Code Extension Into a Full Publishing Suite &lpar;Dev.to + Medium Inside&rpar;](https://dev.to/freerave/dotshare-v30-i-turned-my-vs-code-extension-into-a-full-publishing-suite-devto-medium-inside-15fe) 
 
 - [We Built a Stateless OAuth Server for a VS Code Extension — Here’s Everything We Learned](https://medium.com/codex/we-built-a-stateless-oauth-server-for-a-vs-code-extension-heres-everything-we-learned-fe600679ee2c?source=rss-af64049c9005------2) 
-
-- [I Got Badges 1, 2, and 4 on DEV.to — Badge #3 Is Currently in Witness Protection](https://dev.to/freerave/i-got-badges-1-2-and-4-on-devto-badge-3-is-currently-in-witness-protection-he4) 
-
-- [The AI “Revolution” Has a Dirty Secret — and a Leaked CLI Just Proved It](https://medium.com/codex/the-ai-revolution-has-a-dirty-secret-and-a-leaked-cli-just-proved-it-1accefba50a6?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
