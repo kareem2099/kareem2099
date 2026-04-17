@@ -993,6 +993,8 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [We Hit 2,500 in 15 Days — And I Want to Make Every Dev Lazier &lpar;Productively&rpar;](https://dev.to/freerave/we-hit-2500-in-15-days-and-i-want-to-make-every-dev-lazier-productively-39a3) 
+
 - [Engineering Nexus: How I Built Secure E2EE Network Sync Into a Linux Clipboard Manager](https://infosecwriteups.com/engineering-nexus-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-70f9d01fddda?source=rss-af64049c9005------2) 
 
 - [Engineering the Nexus Release: How I Built Secure E2EE Network Sync into a Linux Clipboard Manager &lpar;v1.5.1&rpar;](https://dev.to/freerave/engineering-the-nexus-release-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-3ocd) 
@@ -1000,8 +1002,6 @@ const goals_2027 = {
 - [DotShare v3.1 — Toast Engine, Race Condition Fix, and Surviving Reddit&#39;s S3 Upload Pipeline](https://dev.to/freerave/dotshare-v31-toast-engine-race-condition-fix-and-surviving-reddits-s3-upload-pipeline-d8b) 
 
 - [DotShare v3.0 — I Turned My VS Code Extension Into a Full Publishing Suite &lpar;Dev.to + Medium Inside&rpar;](https://dev.to/freerave/dotshare-v30-i-turned-my-vs-code-extension-into-a-full-publishing-suite-devto-medium-inside-15fe) 
-
-- [We Built a Stateless OAuth Server for a VS Code Extension — Here’s Everything We Learned](https://medium.com/codex/we-built-a-stateless-oauth-server-for-a-vs-code-extension-heres-everything-we-learned-fe600679ee2c?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
