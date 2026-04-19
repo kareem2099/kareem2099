@@ -993,6 +993,8 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [DotShare v3.0: How I Turned a VS Code Social Poster Into a Full Publishing Suite](https://blog.devops.dev/dotshare-v3-0-how-i-turned-a-vs-code-social-poster-into-a-full-publishing-suite-b7854ef1499b?source=rss-af64049c9005------2) 
+
 - [The Hotfix Chronicles: What Broke After the Nexus Release and How I Fixed It &lpar;v1.5.2 &amp; v1.5.3&rpar;](https://dev.to/freerave/the-hotfix-chronicles-what-broke-after-the-nexus-release-and-how-i-fixed-it-v152-v153-46o2) 
 
 - [We Hit 2,500 in 15 Days — And I Want to Make Every Dev Lazier &lpar;Productively&rpar;](https://dev.to/freerave/we-hit-2500-in-15-days-and-i-want-to-make-every-dev-lazier-productively-39a3) 
@@ -1000,8 +1002,6 @@ const goals_2027 = {
 - [Engineering Nexus: How I Built Secure E2EE Network Sync Into a Linux Clipboard Manager](https://infosecwriteups.com/engineering-nexus-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-70f9d01fddda?source=rss-af64049c9005------2) 
 
 - [Engineering the Nexus Release: How I Built Secure E2EE Network Sync into a Linux Clipboard Manager &lpar;v1.5.1&rpar;](https://dev.to/freerave/engineering-the-nexus-release-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-3ocd) 
-
-- [DotShare v3.1 — Toast Engine, Race Condition Fix, and Surviving Reddit&#39;s S3 Upload Pipeline](https://dev.to/freerave/dotshare-v31-toast-engine-race-condition-fix-and-surviving-reddits-s3-upload-pipeline-d8b) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
