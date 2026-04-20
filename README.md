@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built End-to-End Encrypted LAN Sync Into a Clipboard Manager — Without a Central Server](https://infosecwriteups.com/i-built-end-to-end-encrypted-lan-sync-into-a-clipboard-manager-without-a-central-server-9d60b41b4bfe?source=rss-af64049c9005------2) 
+
+- [The Vercel Breach: What Actually Happened, Why It Matters, and What Every Developer Should Do Right Now](https://dev.to/freerave/the-vercel-breach-what-actually-happened-why-it-matters-and-what-every-developer-should-do-right-4mjn) 
+
+- [The Two Bugs That Were Breaking DotShare in Production — And Everything Else We Fixed in v3.1](https://blog.devops.dev/the-two-bugs-that-were-breaking-dotshare-in-production-and-everything-else-we-fixed-in-v3-1-53089a914f14?source=rss-af64049c9005------2) 
+
 - [DotShare v3.0: How I Turned a VS Code Social Poster Into a Full Publishing Suite](https://blog.devops.dev/dotshare-v3-0-how-i-turned-a-vs-code-social-poster-into-a-full-publishing-suite-b7854ef1499b?source=rss-af64049c9005------2) 
 
 - [The Hotfix Chronicles: What Broke After the Nexus Release and How I Fixed It &lpar;v1.5.2 &amp; v1.5.3&rpar;](https://dev.to/freerave/the-hotfix-chronicles-what-broke-after-the-nexus-release-and-how-i-fixed-it-v152-v153-46o2) 
-
-- [We Hit 2,500 in 15 Days — And I Want to Make Every Dev Lazier &lpar;Productively&rpar;](https://dev.to/freerave/we-hit-2500-in-15-days-and-i-want-to-make-every-dev-lazier-productively-39a3) 
-
-- [Engineering Nexus: How I Built Secure E2EE Network Sync Into a Linux Clipboard Manager](https://infosecwriteups.com/engineering-nexus-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-70f9d01fddda?source=rss-af64049c9005------2) 
-
-- [Engineering the Nexus Release: How I Built Secure E2EE Network Sync into a Linux Clipboard Manager &lpar;v1.5.1&rpar;](https://dev.to/freerave/engineering-the-nexus-release-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-3ocd) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
