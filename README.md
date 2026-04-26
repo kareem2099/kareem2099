@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [Why My Linux App Looked Perfect Locally and Completely Broken in CI — A PyInstaller Post-Mortem](https://blog.devops.dev/why-my-linux-app-looked-perfect-locally-and-completely-broken-in-ci-a-pyinstaller-post-mortem-5d805db67635?source=rss-af64049c9005------2) 
+
+- [Building a Universal Drafts System in a VS Code Extension — Part 1: Types &amp; Storage](https://dev.to/freerave/building-a-universal-drafts-system-in-a-vs-code-extension-part-1-types-storage-5chn) 
+
 - [I Built End-to-End Encrypted LAN Sync Into a Clipboard Manager — Without a Central Server](https://infosecwriteups.com/i-built-end-to-end-encrypted-lan-sync-into-a-clipboard-manager-without-a-central-server-9d60b41b4bfe?source=rss-af64049c9005------2) 
 
 - [The Vercel Breach: What Actually Happened, Why It Matters, and What Every Developer Should Do Right Now](https://dev.to/freerave/the-vercel-breach-what-actually-happened-why-it-matters-and-what-every-developer-should-do-right-4mjn) 
 
 - [The Two Bugs That Were Breaking DotShare in Production — And Everything Else We Fixed in v3.1](https://blog.devops.dev/the-two-bugs-that-were-breaking-dotshare-in-production-and-everything-else-we-fixed-in-v3-1-53089a914f14?source=rss-af64049c9005------2) 
-
-- [DotShare v3.0: How I Turned a VS Code Social Poster Into a Full Publishing Suite](https://blog.devops.dev/dotshare-v3-0-how-i-turned-a-vs-code-social-poster-into-a-full-publishing-suite-b7854ef1499b?source=rss-af64049c9005------2) 
-
-- [The Hotfix Chronicles: What Broke After the Nexus Release and How I Fixed It &lpar;v1.5.2 &amp; v1.5.3&rpar;](https://dev.to/freerave/the-hotfix-chronicles-what-broke-after-the-nexus-release-and-how-i-fixed-it-v152-v153-46o2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
