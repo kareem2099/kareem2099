@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [PART 2: I Published a Scam Expose.](https://infosecwriteups.com/part-2-i-published-a-scam-expose-bc420e0bbc00?source=rss-af64049c9005------2) 
+
+- [Building a Drafts System in VS Code — Part 2: Two-Way Sync, Remote Drafts &amp; the WebView UI](https://blog.devops.dev/building-a-drafts-system-in-vs-code-part-2-two-way-sync-remote-drafts-the-webview-ui-9e2d3a903719?source=rss-af64049c9005------2) 
+
 - [PART 2: I Published a Scam Expose. NetEase Sent a Takedown Request. Then They Rewrote Their Entire Operation.](https://dev.to/freerave/part-2-i-published-a-scam-expose-netease-sent-a-takedown-request-then-they-rewrote-their-entire-hip) 
 
 - [Building a Universal Drafts System in a VS Code Extension — Part 2: Sync, UI &amp; Remote Drafts](https://dev.to/freerave/building-a-universal-drafts-system-in-a-vs-code-extension-part-2-sync-ui-remote-drafts-3o1j) 
 
 - [Why My Linux App Looked Perfect Locally and Completely Broken in CI — A PyInstaller Post-Mortem](https://blog.devops.dev/why-my-linux-app-looked-perfect-locally-and-completely-broken-in-ci-a-pyinstaller-post-mortem-5d805db67635?source=rss-af64049c9005------2) 
-
-- [Building a Universal Drafts System in a VS Code Extension — Part 1: Types &amp; Storage](https://dev.to/freerave/building-a-universal-drafts-system-in-a-vs-code-extension-part-1-types-storage-5chn) 
-
-- [I Built End-to-End Encrypted LAN Sync Into a Clipboard Manager — Without a Central Server](https://infosecwriteups.com/i-built-end-to-end-encrypted-lan-sync-into-a-clipboard-manager-without-a-central-server-9d60b41b4bfe?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
