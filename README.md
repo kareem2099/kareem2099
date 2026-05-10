@@ -993,6 +993,8 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Private Rust Backend to Power 18 Developer Tools — Here&#39;s the Architecture](https://dev.to/freerave/i-built-a-private-rust-backend-to-power-18-developer-tools-heres-the-architecture-4lmc) 
+
 - [Your AI Assistant Is Gaslighting You — And Here&#39;s the Proof](https://dev.to/freerave/your-ai-assistant-is-gaslighting-you-and-heres-the-proof-5gbb) 
 
 - [CoderLegion Review 2026: Is It a Scam? A Developer&#39;s Full Technical Teardown](https://dev.to/freerave/coderlegion-review-2026-is-it-a-scam-a-developers-full-technical-teardown-4043) 
@@ -1000,8 +1002,6 @@ const goals_2027 = {
 - [I Lost a 3,000-Word Article to a VS Code WebView Reset. Here’s How I Fixed It — Part 1](https://blog.devops.dev/i-lost-a-3-000-word-article-to-a-vs-code-webview-reset-heres-how-i-fixed-it-part-1-1a962aa53183?source=rss-af64049c9005------2) 
 
 - [PART 2: I Published a Scam Expose.](https://infosecwriteups.com/part-2-i-published-a-scam-expose-bc420e0bbc00?source=rss-af64049c9005------2) 
-
-- [Building a Drafts System in VS Code — Part 2: Two-Way Sync, Remote Drafts &amp; the WebView UI](https://blog.devops.dev/building-a-drafts-system-in-vs-code-part-2-two-way-sync-remote-drafts-the-webview-ui-9e2d3a903719?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
