@@ -993,6 +993,8 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [They Charged $10/Month for a $5 Server, a Free Script, and Three Years of Lies. Here’s the Proof.](https://infosecwriteups.com/they-charged-10-month-for-a-5-server-a-free-script-and-three-years-of-lies-heres-the-proof-b232637e4269?source=rss-af64049c9005------2) 
+
 - [I Built a Private Rust Backend to Power 18 Developer Tools — Here&#39;s the Architecture](https://dev.to/freerave/i-built-a-private-rust-backend-to-power-18-developer-tools-heres-the-architecture-4lmc) 
 
 - [Your AI Assistant Is Gaslighting You — And Here&#39;s the Proof](https://dev.to/freerave/your-ai-assistant-is-gaslighting-you-and-heres-the-proof-5gbb) 
@@ -1000,8 +1002,6 @@ const goals_2027 = {
 - [CoderLegion Review 2026: Is It a Scam? A Developer&#39;s Full Technical Teardown](https://dev.to/freerave/coderlegion-review-2026-is-it-a-scam-a-developers-full-technical-teardown-4043) 
 
 - [I Lost a 3,000-Word Article to a VS Code WebView Reset. Here’s How I Fixed It — Part 1](https://blog.devops.dev/i-lost-a-3-000-word-article-to-a-vs-code-webview-reset-heres-how-i-fixed-it-part-1-1a962aa53183?source=rss-af64049c9005------2) 
-
-- [PART 2: I Published a Scam Expose.](https://infosecwriteups.com/part-2-i-published-a-scam-expose-bc420e0bbc00?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
