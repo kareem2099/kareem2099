@@ -993,6 +993,8 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Fail-Fast Rust Scheduler with Background OAuth Auto-Refresh &lpar;Part 2&rpar;](https://dev.to/freerave/i-built-a-fail-fast-rust-scheduler-with-background-oauth-auto-refresh-part-2-314b) 
+
 - [Testing DotShare Cloudflare Image Upload](https://dev.to/freerave/testing-dotshare-cloudflare-image-upload-43g0) 
 
 - [Linus Torvalds Just Said What Everyone Was Thinking: AI Bug Spam Is Killing the Linux Kernel Security List](https://dev.to/freerave/linus-torvalds-just-said-what-everyone-was-thinking-ai-bug-spam-is-killing-the-linux-kernel-1130) 
@@ -1000,8 +1002,6 @@ const goals_2027 = {
 - [TeamPCP Broke GitHub — And Nobody Saw It Coming &lpar;But They Should Have&rpar;](https://dev.to/freerave/teampcp-broke-github-and-nobody-saw-it-coming-but-they-should-have-3opg) 
 
 - [I Built a Private Rust Backend to Power 18 Developer Tools — Here’s the Architecture](https://medium.com/codex/i-built-a-private-rust-backend-to-power-18-developer-tools-heres-the-architecture-4077112e2a81?source=rss-af64049c9005------2) 
-
-- [I Asked 6 AIs to Pick a Random Number. Their Training Data Confessed Everything.](https://dev.to/freerave/i-asked-6-ais-to-pick-a-random-number-their-training-data-confessed-everything-1516) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
