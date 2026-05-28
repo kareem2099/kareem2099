@@ -993,11 +993,11 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
-- [I Hardened a Rust Media Upload API with Magic Bytes, Atomic Quotas, and Race Condition Fixes &lpar;Part 3&rpar;](https://dev.to/freerave/i-hardened-a-rust-media-upload-api-with-magic-bytes-atomic-quotas-and-race-condition-fixes-part-5hi4) 
+- [Securing DotShare 3.3: Inside the Rust Media API &lpar;Magic Bytes, Atomic Quotas, &amp; Race Fixes&rpar; - Part 3](https://dev.to/freerave/i-hardened-a-rust-media-upload-api-with-magic-bytes-atomic-quotas-and-race-condition-fixes-part-5hi4) 
 
 - [I Built a Fail-Fast Rust Scheduler with Background OAuth Auto-Refresh &lpar;Part 2&rpar;](https://freerave.medium.com/i-built-a-fail-fast-rust-scheduler-with-background-oauth-auto-refresh-part-2-1859c41a9d30?source=rss-af64049c9005------2) 
 
-- [I Built a Fail-Fast Rust Scheduler with Background OAuth Auto-Refresh &lpar;Part 2&rpar;](https://dev.to/freerave/i-built-a-fail-fast-rust-scheduler-with-background-oauth-auto-refresh-part-2-314b) 
+- [Building DotShare 3.3: A Fail-Fast Rust Scheduler with Background OAuth Auto-Refresh &lpar;Part 2&rpar;](https://dev.to/freerave/i-built-a-fail-fast-rust-scheduler-with-background-oauth-auto-refresh-part-2-314b) 
 
 - [Testing DotShare Cloudflare Image Upload](https://dev.to/freerave/testing-dotshare-cloudflare-image-upload-43g0) 
 
