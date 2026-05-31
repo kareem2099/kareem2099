@@ -995,13 +995,13 @@ const goals_2027 = {
 <!-- BLOG-POST-LIST:START -->
 - [DotShare 3.3: The Final 10% — Crashing the Rust Compiler and Fixing Silent Node.js Bugs &lpar;Part 4&rpar;](https://dev.to/freerave/dotshare-33-the-final-10-crashing-the-rust-compiler-and-fixing-silent-nodejs-bugs-part-4-6gc) 
 
+- [Securing DotShare 3.3:](https://infosecwriteups.com/securing-dotshare-3-3-82524ce1d776?source=rss-af64049c9005------2) 
+
 - [Securing DotShare 3.3: Inside the Rust Media API &lpar;Magic Bytes, Atomic Quotas, &amp; Race Fixes&rpar; - Part 3](https://dev.to/freerave/i-hardened-a-rust-media-upload-api-with-magic-bytes-atomic-quotas-and-race-condition-fixes-part-5hi4) 
 
 - [I Built a Fail-Fast Rust Scheduler with Background OAuth Auto-Refresh &lpar;Part 2&rpar;](https://freerave.medium.com/i-built-a-fail-fast-rust-scheduler-with-background-oauth-auto-refresh-part-2-1859c41a9d30?source=rss-af64049c9005------2) 
 
 - [Building DotShare 3.3: A Fail-Fast Rust Scheduler with Background OAuth Auto-Refresh &lpar;Part 2&rpar;](https://dev.to/freerave/i-built-a-fail-fast-rust-scheduler-with-background-oauth-auto-refresh-part-2-314b) 
-
-- [Testing DotShare Cloudflare Image Upload](https://dev.to/freerave/testing-dotshare-cloudflare-image-upload-43g0) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
