@@ -993,6 +993,8 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Hacked My Own GPG Key: A Developer&#39;s Forensic War Story](https://dev.to/freerave/how-i-hacked-my-own-gpg-key-a-developers-forensic-war-story-2mlf) 
+
 - [I Built a Code Screenshot Tool Inside My VS Code Extension — Here&#39;s How It Works &lpar;DotShare v3.4.0&rpar;](https://dev.to/freerave/i-built-a-code-screenshot-tool-inside-my-vs-code-extension-heres-how-it-works-dotshare-v340-1f35) 
 
 - [Your CI/CD Pipeline Is the Attack Surface Now](https://blog.devops.dev/your-ci-cd-pipeline-is-the-attack-surface-now-d77648e7c641?source=rss-af64049c9005------2) 
@@ -1000,8 +1002,6 @@ const goals_2027 = {
 - [DotShare 3.3: The Final 10% — Crashing the Rust Compiler and Fixing Silent Node.js Bugs &lpar;Part 4&rpar;](https://dev.to/freerave/dotshare-33-the-final-10-crashing-the-rust-compiler-and-fixing-silent-nodejs-bugs-part-4-6gc) 
 
 - [Securing DotShare 3.3:](https://infosecwriteups.com/securing-dotshare-3-3-82524ce1d776?source=rss-af64049c9005------2) 
-
-- [Securing DotShare 3.3: Inside the Rust Media API &lpar;Magic Bytes, Atomic Quotas, &amp; Race Fixes&rpar; - Part 3](https://dev.to/freerave/i-hardened-a-rust-media-upload-api-with-magic-bytes-atomic-quotas-and-race-condition-fixes-part-5hi4) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
