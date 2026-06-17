@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [How TeamPCP Spent 10 Weeks Building Up to GitHub’s Worst Day](https://freerave.medium.com/how-teampcp-spent-10-weeks-building-up-to-githubs-worst-day-cbdcfd8a5a4c?source=rss-af64049c9005------2) 
+
+- [When the Defender Becomes the Attacker: Self Red-Teaming a Forgotten GPG Key](https://freerave.medium.com/when-the-defender-becomes-the-attacker-self-red-teaming-a-forgotten-gpg-key-ab8eba628c75?source=rss-af64049c9005------2) 
+
 - [The AI They Said Was Too Dangerous — Is Now Inside the NSA](https://dev.to/freerave/the-ai-they-said-was-too-dangerous-is-now-inside-the-nsa-3kg8) 
 
 - [How I Hacked My Own GPG Key: A Developer&#39;s Forensic War Story](https://dev.to/freerave/how-i-hacked-my-own-gpg-key-a-developers-forensic-war-story-2mlf) 
 
 - [I Built a Code Screenshot Tool Inside My VS Code Extension — Here&#39;s How It Works &lpar;DotShare v3.4.0&rpar;](https://dev.to/freerave/i-built-a-code-screenshot-tool-inside-my-vs-code-extension-heres-how-it-works-dotshare-v340-1f35) 
-
-- [Your CI/CD Pipeline Is the Attack Surface Now](https://blog.devops.dev/your-ci-cd-pipeline-is-the-attack-surface-now-d77648e7c641?source=rss-af64049c9005------2) 
-
-- [DotShare 3.3: The Final 10% — Crashing the Rust Compiler and Fixing Silent Node.js Bugs &lpar;Part 4&rpar;](https://dev.to/freerave/dotshare-33-the-final-10-crashing-the-rust-compiler-and-fixing-silent-nodejs-bugs-part-4-6gc) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
