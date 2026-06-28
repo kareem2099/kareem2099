@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Code Screenshot Tool Inside My VS Code Extension — Here’s How It Works](https://blog.devops.dev/i-built-a-code-screenshot-tool-inside-my-vs-code-extension-heres-how-it-works-af670abde029?source=rss-af64049c9005------2) 
+
+- [Building DotScramble Part 2: Ed25519 License Signing, Machine Fingerprinting, and a 7-Day Offline Grace Period](https://dev.to/freerave/building-dotscramble-part-2-ed25519-license-signing-machine-fingerprinting-and-a-7-day-offline-3i8p) 
+
 - [Inside DotScramble: Metadata Spoofing, Custom EXIF Control, and Advanced Face/Eye Blur](https://dev.to/freerave/inside-dotscramble-metadata-spoofing-custom-exif-control-and-advanced-faceeye-blur-29ob) 
 
 - [How TeamPCP Spent 10 Weeks Building Up to GitHub’s Worst Day](https://freerave.medium.com/how-teampcp-spent-10-weeks-building-up-to-githubs-worst-day-cbdcfd8a5a4c?source=rss-af64049c9005------2) 
 
 - [When the Defender Becomes the Attacker: Self Red-Teaming a Forgotten GPG Key](https://freerave.medium.com/when-the-defender-becomes-the-attacker-self-red-teaming-a-forgotten-gpg-key-ab8eba628c75?source=rss-af64049c9005------2) 
-
-- [The AI They Said Was Too Dangerous — Is Now Inside the NSA](https://dev.to/freerave/the-ai-they-said-was-too-dangerous-is-now-inside-the-nsa-3kg8) 
-
-- [How I Hacked My Own GPG Key: A Developer&#39;s Forensic War Story](https://dev.to/freerave/how-i-hacked-my-own-gpg-key-a-developers-forensic-war-story-2mlf) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
