@@ -993,6 +993,8 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [Asymmetric Signing, Machine Fingerprinting, and Offline Grace Periods: Building a License System…](https://infosecwriteups.com/asymmetric-signing-machine-fingerprinting-and-offline-grace-periods-building-a-license-system-d8dd5678e1cb?source=rss-af64049c9005------2) 
+
 - [I Built a Code Screenshot Tool Inside My VS Code Extension — Here’s How It Works](https://blog.devops.dev/i-built-a-code-screenshot-tool-inside-my-vs-code-extension-heres-how-it-works-af670abde029?source=rss-af64049c9005------2) 
 
 - [Building DotScramble Part 2: Ed25519 License Signing, Machine Fingerprinting, and a 7-Day Offline Grace Period](https://dev.to/freerave/building-dotscramble-part-2-ed25519-license-signing-machine-fingerprinting-and-a-7-day-offline-3i8p) 
@@ -1000,8 +1002,6 @@ const goals_2027 = {
 - [Inside DotScramble: Metadata Spoofing, Custom EXIF Control, and Advanced Face/Eye Blur](https://dev.to/freerave/inside-dotscramble-metadata-spoofing-custom-exif-control-and-advanced-faceeye-blur-29ob) 
 
 - [How TeamPCP Spent 10 Weeks Building Up to GitHub’s Worst Day](https://freerave.medium.com/how-teampcp-spent-10-weeks-building-up-to-githubs-worst-day-cbdcfd8a5a4c?source=rss-af64049c9005------2) 
-
-- [When the Defender Becomes the Attacker: Self Red-Teaming a Forgotten GPG Key](https://freerave.medium.com/when-the-defender-becomes-the-attacker-self-red-teaming-a-forgotten-gpg-key-ab8eba628c75?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
