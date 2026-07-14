@@ -993,6 +993,8 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI&#39;s Grok Build CLI Was Quietly Uploading Entire Codebases to Google Cloud](https://dev.to/freerave/xais-grok-build-cli-was-quietly-uploading-entire-codebases-to-google-cloud-1k20) 
+
 - [Image Metadata: The Silent Intelligence Source You’re Ignoring](https://freerave.medium.com/image-metadata-the-silent-intelligence-source-youre-ignoring-ece20c569854?source=rss-af64049c9005------2) 
 
 - [Building DotScramble Part 3: Wayland Wars, a Custom File Picker, and Designing AI Evasion](https://dev.to/freerave/building-dotscramble-part-3-wayland-wars-a-custom-file-picker-and-designing-ai-evasion-2mja) 
@@ -1000,8 +1002,6 @@ const goals_2027 = {
 - [Asymmetric Signing, Machine Fingerprinting, and Offline Grace Periods: Building a License System…](https://infosecwriteups.com/asymmetric-signing-machine-fingerprinting-and-offline-grace-periods-building-a-license-system-d8dd5678e1cb?source=rss-af64049c9005------2) 
 
 - [I Built a Code Screenshot Tool Inside My VS Code Extension — Here’s How It Works](https://blog.devops.dev/i-built-a-code-screenshot-tool-inside-my-vs-code-extension-heres-how-it-works-af670abde029?source=rss-af64049c9005------2) 
-
-- [Building DotScramble Part 2: Ed25519 License Signing, Machine Fingerprinting, and a 7-Day Offline Grace Period](https://dev.to/freerave/building-dotscramble-part-2-ed25519-license-signing-machine-fingerprinting-and-a-7-day-offline-3i8p) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
