@@ -993,6 +993,8 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [Wayland Wars, a Custom File Picker, and Non-Blocking Threads: Building a Responsive Qt App](https://freerave.medium.com/wayland-wars-a-custom-file-picker-and-non-blocking-threads-building-a-responsive-qt-app-661fd4f6ee63?source=rss-af64049c9005------2) 
+
 - [Grok Build CLI Was Quietly Uploading Entire Codebases to Google Cloud — What This Means for Your…](https://blog.devops.dev/grok-build-cli-was-quietly-uploading-entire-codebases-to-google-cloud-what-this-means-for-your-667963713871?source=rss-af64049c9005------2) 
 
 - [How I Refactored My Developer Portfolio Into a Modular, Secure, and Playfully Destructive Playground &lpar;v1.1.0&rpar;](https://dev.to/freerave/how-i-refactored-my-developer-portfolio-into-a-modular-secure-and-playfully-destructive-2m1a) 
@@ -1000,8 +1002,6 @@ const goals_2027 = {
 - [xAI&#39;s Grok Build CLI Was Quietly Uploading Entire Codebases to Google Cloud](https://dev.to/freerave/xais-grok-build-cli-was-quietly-uploading-entire-codebases-to-google-cloud-1k20) 
 
 - [Image Metadata: The Silent Intelligence Source You’re Ignoring](https://freerave.medium.com/image-metadata-the-silent-intelligence-source-youre-ignoring-ece20c569854?source=rss-af64049c9005------2) 
-
-- [Building DotScramble Part 3: Wayland Wars, a Custom File Picker, and Designing AI Evasion](https://dev.to/freerave/building-dotscramble-part-3-wayland-wars-a-custom-file-picker-and-designing-ai-evasion-2mja) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
