@@ -993,6 +993,8 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [Building DotGhostBoard v1.5.5: Spotlight Search, SHA-256 Image Deduplication &amp; Zero-Trust Clipboard Security in PyQt6](https://dev.to/freerave/building-dotghostboard-v155-spotlight-search-sha-256-image-deduplication-zero-trust-clipboard-2b11) 
+
 - [How I Refactored My Developer Portfolio Into a Modular, Secure, and Playfully Destructive…](https://medium.com/codex/how-i-refactored-my-developer-portfolio-into-a-modular-secure-and-playfully-destructive-c4e69d2dc18b?source=rss-af64049c9005------2) 
 
 - [Wayland Wars, a Custom File Picker, and Non-Blocking Threads: Building a Responsive Qt App](https://freerave.medium.com/wayland-wars-a-custom-file-picker-and-non-blocking-threads-building-a-responsive-qt-app-661fd4f6ee63?source=rss-af64049c9005------2) 
@@ -1000,8 +1002,6 @@ const goals_2027 = {
 - [Grok Build CLI Was Quietly Uploading Entire Codebases to Google Cloud — What This Means for Your…](https://blog.devops.dev/grok-build-cli-was-quietly-uploading-entire-codebases-to-google-cloud-what-this-means-for-your-667963713871?source=rss-af64049c9005------2) 
 
 - [How I Refactored My Developer Portfolio Into a Modular, Secure, and Playfully Destructive Playground &lpar;v1.1.0&rpar;](https://dev.to/freerave/how-i-refactored-my-developer-portfolio-into-a-modular-secure-and-playfully-destructive-2m1a) 
-
-- [xAI&#39;s Grok Build CLI Was Quietly Uploading Entire Codebases to Google Cloud](https://dev.to/freerave/xais-grok-build-cli-was-quietly-uploading-entire-codebases-to-google-cloud-1k20) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
