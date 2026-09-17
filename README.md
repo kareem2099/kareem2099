@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [From Monolith to Modular Architecture: Refactoring a 2,353-Line PyQt6 Desktop App Without…](https://freerave.medium.com/from-monolith-to-modular-architecture-refactoring-a-2-353-line-pyqt6-desktop-app-without-24a8b7327bfc?source=rss-af64049c9005------2) 
+
+- [From Monolith to Modular Architecture: Refactoring a 2,353-Line PyQt6 Desktop App Without Regressions](https://dev.to/freerave/from-monolith-to-modular-architecture-refactoring-a-2353-line-pyqt6-desktop-app-without-1jlo) 
+
 - [When &quot;Fast&quot; Became the Only Rule](https://dev.to/freerave/when-fast-became-the-only-rule-3p8f) 
 
 - [Inside DotFetch v2.1.0: Auth Boundaries, WebView Security, and Request Architecture](https://medium.com/codex/inside-dotfetch-v2-1-0-auth-boundaries-webview-security-and-request-architecture-e5bb4e3eb5df?source=rss-af64049c9005------2) 
 
 - [Inside DotFetch v2.1.0: Auth Boundaries, WebView Security, and Request Architecture](https://dev.to/freerave/inside-dotfetch-v210-auth-boundaries-webview-security-and-request-architecture-4knf) 
-
-- [Why Modern Clipboard Managers are Security Risks — And How We Engineered a Zero-Trust Solution in…](https://blog.devops.dev/why-modern-clipboard-managers-are-security-risks-and-how-we-engineered-a-zero-trust-solution-in-2dc6d447e510?source=rss-af64049c9005------2) 
-
-- [Building DotGhostBoard v1.5.5: Spotlight Search, SHA-256 Image Deduplication &amp; Zero-Trust Clipboard Security in PyQt6](https://dev.to/freerave/building-dotghostboard-v155-spotlight-search-sha-256-image-deduplication-zero-trust-clipboard-2b11) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
