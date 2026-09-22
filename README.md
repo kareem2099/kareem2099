@@ -993,15 +993,15 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [DotGhostBoard 2.0.0 “Cerberus”: Building a Native Cryptographic Clipboard and Vault for Linux](https://freerave.medium.com/dotghostboard-2-0-0-cerberus-building-a-native-cryptographic-clipboard-and-vault-for-linux-75dba412f032?source=rss-af64049c9005------2) 
+
+- [DotGhostBoard 2.0.0 &#39;Cerberus&#39;: Building a Native Cryptographic Clipboard &amp; Vault for Linux](https://dev.to/freerave/dotghostboard-200-cerberus-building-a-native-cryptographic-clipboard-vault-for-linux-43n0) 
+
 - [From Monolith to Modular Architecture: Refactoring a 2,353-Line PyQt6 Desktop App Without…](https://freerave.medium.com/from-monolith-to-modular-architecture-refactoring-a-2-353-line-pyqt6-desktop-app-without-24a8b7327bfc?source=rss-af64049c9005------2) 
 
 - [From Monolith to Modular Architecture: Refactoring a 2,353-Line PyQt6 Desktop App Without Regressions](https://dev.to/freerave/from-monolith-to-modular-architecture-refactoring-a-2353-line-pyqt6-desktop-app-without-1jlo) 
 
 - [When &quot;Fast&quot; Became the Only Rule](https://dev.to/freerave/when-fast-became-the-only-rule-3p8f) 
-
-- [Inside DotFetch v2.1.0: Auth Boundaries, WebView Security, and Request Architecture](https://medium.com/codex/inside-dotfetch-v2-1-0-auth-boundaries-webview-security-and-request-architecture-e5bb4e3eb5df?source=rss-af64049c9005------2) 
-
-- [Inside DotFetch v2.1.0: Auth Boundaries, WebView Security, and Request Architecture](https://dev.to/freerave/inside-dotfetch-v210-auth-boundaries-webview-security-and-request-architecture-4knf) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
