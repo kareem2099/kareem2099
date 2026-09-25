@@ -993,6 +993,8 @@ const goals_2027 = {
 ## ✍️ LATEST WRITINGS — TECH THOUGHTS
 
 <!-- BLOG-POST-LIST:START -->
+- [DotEnvy Aegis: Building a 4-Layer AI Secret Detection Pipeline for VS Code](https://dev.to/freerave/dotenvy-aegis-building-a-4-layer-ai-secret-detection-pipeline-for-vs-code-115o) 
+
 - [DotGhostBoard 2.0.0 “Cerberus”: Building a Native Cryptographic Clipboard and Vault for Linux](https://freerave.medium.com/dotghostboard-2-0-0-cerberus-building-a-native-cryptographic-clipboard-and-vault-for-linux-75dba412f032?source=rss-af64049c9005------2) 
 
 - [DotGhostBoard 2.0.0 &#39;Cerberus&#39;: Building a Native Cryptographic Clipboard &amp; Vault for Linux](https://dev.to/freerave/dotghostboard-200-cerberus-building-a-native-cryptographic-clipboard-vault-for-linux-43n0) 
@@ -1000,8 +1002,6 @@ const goals_2027 = {
 - [From Monolith to Modular Architecture: Refactoring a 2,353-Line PyQt6 Desktop App Without…](https://freerave.medium.com/from-monolith-to-modular-architecture-refactoring-a-2-353-line-pyqt6-desktop-app-without-24a8b7327bfc?source=rss-af64049c9005------2) 
 
 - [From Monolith to Modular Architecture: Refactoring a 2,353-Line PyQt6 Desktop App Without Regressions](https://dev.to/freerave/from-monolith-to-modular-architecture-refactoring-a-2353-line-pyqt6-desktop-app-without-1jlo) 
-
-- [When &quot;Fast&quot; Became the Only Rule](https://dev.to/freerave/when-fast-became-the-only-rule-3p8f) 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
