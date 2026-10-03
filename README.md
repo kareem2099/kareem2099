@@ -92,6 +92,8 @@ Also: [DotCommand](https://github.com/kareem2099/dotcommand) (AI terminal histor
 I write about security, developer tooling, and architecture on [dev.to](https://dev.to/freerave) (4,000+ followers).
 
 <!-- BLOG-POST-LIST:START -->
+- [DotGhostBoard 2.1 &#39;Leviathan&#39; — Smart Clipboard Tagging &amp; Contextual Actions on Linux &lpar;Part 1&rpar;](https://dev.to/freerave/dotghostboard-21-leviathan-smart-clipboard-tagging-contextual-actions-on-linux-part-1-5gb8) 
+
 - [Building an Automated, API-Driven Stats &amp; Version Synchronizer for VS Code Extensions with 24-Hour Smart Caching &lpar;dotUniverse v1.2.0&rpar;](https://dev.to/freerave/building-an-automated-api-driven-stats-version-synchronizer-for-vs-code-extensions-with-24-hour-4inm) 
 
 - [Engineering a Zero-Trust Secret Guard for VS Code: Architecture, Heuristics, and DevSecOps](https://blog.devops.dev/engineering-a-zero-trust-secret-guard-for-vs-code-architecture-heuristics-and-devsecops-72c91104eee4?source=rss-af64049c9005------2) 
@@ -99,8 +101,6 @@ I write about security, developer tooling, and architecture on [dev.to](https://
 - [The VSIX Packaging Trap: How I Eliminated Embedded Client Secrets from a VS Code Extension](https://dev.to/freerave/the-vsix-packaging-trap-how-i-eliminated-embedded-client-secrets-from-a-vs-code-extension-2650) 
 
 - [DotEnvy Aegis: Building a 4-Layer AI Secret Detection Pipeline for VS Code](https://dev.to/freerave/dotenvy-aegis-building-a-4-layer-ai-secret-detection-pipeline-for-vs-code-115o) 
-
-- [DotGhostBoard 2.0.0 “Cerberus”: Building a Native Cryptographic Clipboard and Vault for Linux](https://freerave.medium.com/dotghostboard-2-0-0-cerberus-building-a-native-cryptographic-clipboard-and-vault-for-linux-75dba412f032?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
