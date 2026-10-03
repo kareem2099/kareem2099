@@ -1,996 +1,95 @@
 <div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=FreeRave%20•%20DOTSUITE&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ARCHITECT%20OF%20THE%20IMPOSSIBLE&descSize=20&descAlignY=55" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=FreeRave%20%E2%80%A2%20DotSuite&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Founder%20of%20DotSuite%20%7C%20Open-Source%20Developer%20Tools&descSize=18&descAlignY=58" width="100%"/>
 
-# ⚡ Senior Full-Stack Engineer • AI ARCHITECT • SECURITY EXPERT ⚡
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=Founder+%2B+Lead+Architect+at+DotSuite;Next.js+Flutter+Custom+LLM+Master;20000%2B+Lines+of+Battle-Tested+Code;Full-Stack+AI-ML+DevOps+Security;Building+The+Tools+That+Don't+Exist+Yet" alt="Typing SVG" />
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000)](https://portfolio-workzilla.vercel.app/en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freerave/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kareem.ehab20?mibextid=ZbWKwL)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/BagNew5318/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem2099@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=20%2B+open-source+developer+tools;19%2C500%2B+downloads+across+VS+Code+Marketplace+%26+Open+VSX;Privacy-first+VS+Code+extensions%2C+Linux+apps+%26+AI+security+tooling;Python+%C2%B7+Rust+%C2%B7+TypeScript+%C2%B7+Next.js" alt="Typing SVG" />
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kareem2099&custom_title=⚡%20kareem'S%20CONTRIBUTION%20DOMINANCE%20GRAPH%20⚡&bg_color=000000&color=00D9FF&line=00ff88&point=ff0080&area_color=0D1117&title_color=00D9FF&area=true&hide_border=false&border_color=00D9FF" alt="Contribution Graph"/>
-
-<br>
-
-## 🎯 PROFESSIONAL STATUS
-
-<img src="https://img.shields.io/badge/STATUS-🔥_ACTIVELY_SHIPPING_FEATURES-00ff00?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/AVAILABILITY-💼_OPEN_FOR_HIRE-ff0080?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/COFFEE_LEVEL-☕_MAXIMUM_OVERDRIVE-brown?style=for-the-badge&labelColor=000000"/>
+[![Website](https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://dotsuite.dev/en)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/freerave)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@freerave)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freerave/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FreeRave2)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dot_FreeRave)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem209907@gmail.com)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 💎 PROFESSIONAL PROFILE
-
-</div>
-
-```typescript
-interface Developer {
-  name: string;
-  title: string;
-  status: string;
-  portfolio: string;
-  expertise: {
-    fullstack: string[];
-    mobile: string[];
-    ai_ml: {
-      level: string;
-      achievements: string[];
-      models: string[];
-    };
-    security: {
-      level: string;
-      certifications: string[];
-    };
-    devops: {
-      expertise: string[];
-      platforms: string[];
-    };
-  };
-  stats: {
-    production_code: string;
-    users_impacted: string;
-    hours_coded: string;
-    coffee_consumed: number;
-    bugs_crushed: string;
-    systems_secured: string;
-  };
-}
-
-const kareem: Developer = {
-  name: "kareem (Founder @ DotSuite)",
-  title: "🚀 Lead Senior Full-Stack Engineer | AI Architect | Security Expert",
-  status: "Available for Technical Consulting",
-  portfolio: "https://portfolio-workzilla.vercel.app/en",
-  
-  expertise: {
-    fullstack: [
-      "⚛️ Next.js 15 - Server Actions, RSC, App Router MASTERED",
-      "🎨 React 19 - Hooks, Context, Performance Wizardry",
-      "🔥 TypeScript - Type Safety Is My Religion",
-      "⚡ Node.js/Express - RESTful & GraphQL APIs",
-      "🚀 FastAPI - Lightning-Fast Python Backends",
-      "🗄️ PostgreSQL, MongoDB, Redis - Database Domination"
-    ],
-    
-    mobile: [
-      "📱 Flutter - Enterprise-Grade Cross-Platform Apps",
-      "🎯 Dart - Clean, Fast, Production-Ready",
-      "📲 iOS & Android - One Codebase, Zero Compromises",
-      "🔥 State Management - BLoC, Provider, Riverpod",
-      "🎨 Custom Animations - Smooth as Butter",
-      "🔌 Native Integration - Platform Channels Mastered"
-    ],
-    
-    ai_ml: {
-      level: "CUSTOM LLM ARCHITECT",
-      achievements: [
-        "Built transformers from scratch (no, seriously)",
-        "15,000+ lines of production ML code",
-        "Trained models on millions of data points",
-        "95%+ accuracy in secret detection",
-        "Real-time behavioral analysis systems"
-      ],
-      models: [
-        "🧠 TensorFlow - Neural Network Sorcery",
-        "🔥 PyTorch - Deep Learning Mastery",
-        "📊 Scikit-learn - Classical ML Perfection",
-        "🤖 Custom Transformers - Built From Zero",
-        "⚡ ONNX Runtime - Optimized Inference"
-      ]
-    },
-    
-    security: {
-      level: "PENETRATION TESTING EXPERT",
-      certifications: [
-        "🛡️ Network Security Expert",
-        "🔐 Secret Management Specialist",
-        "🎯 Threat Detection & Analysis",
-        "💀 Ethical Hacking & Pentesting",
-        "🔒 Zero-Trust Architecture"
-      ]
-    },
-    
-    devops: {
-      expertise: [
-        "☁️ AWS - EC2, S3, Lambda, Secrets Manager, RDS",
-        "🔥 Firebase - Firestore, Auth, Cloud Functions",
-        "🐳 Docker - Containerization Master",
-        "⚙️ GitHub Actions - CI/CD Automation",
-        "📊 Monitoring - Grafana, Prometheus, DataDog"
-      ],
-      platforms: [
-        "Vercel", "Netlify", "Railway", "Heroku",
-        "Google Cloud", "Azure", "DigitalOcean"
-      ]
-    }
-  },
-  
-  stats: {
-    production_code: "500,000+ lines",
-    users_impacted: "50,000+",
-    hours_coded: "15,000+",
-    coffee_consumed: Infinity,
-    bugs_crushed: "10,000+",
-    systems_secured: "100+"
-  }
-};
-
-console.log("🔥 Ready to build something LEGENDARY? Let's talk.");
-console.log("🌐 Portfolio: https://portfolio-workzilla.vercel.app/en");
-```
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 💼 BATTLE-TESTED PRODUCTION PROJECTS
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://FreeRave.gallerycdn.vsassets.io/extensions/freerave/dotenvy/1.3.0/1766956361829/Microsoft.VisualStudio.Services.Icons.Default" width="30"/> **dotenvy** — AI Security Platform
-
-<img src="https://img.shields.io/badge/STATUS-🔥_PRODUCTION-00ff00?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/TYPE-VS_CODE_EXTENSION-007ACC?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/visual-studio-marketplace/i/FreeRave.dotenvy?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000&label=INSTALLS"/>
-
-**The ULTIMATE `.env` security fortress powered by custom AI**
-
-#### 🛡️ Enterprise-Grade Features:
-- 🧠 **Custom LLM Engine** — 15,000+ lines of ML code
-- ⚡ **Real-time Detection** — Catches secrets INSTANTLY
-- ☁️ **Enterprise Sync** — Military-grade encryption
-- 🔒 **AWS Integration** — Secrets Manager connection
-- 🎯 **Zero Config** — Works instantly
-- 📊 **Analytics** — Track security across projects
-- 🔥 **95%+ Accuracy** — Trained on millions of secrets
-
-#### 💪 TECH STACK:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-**🎯 IMPACT:** Prevented 10,000+ breaches • $1M+ in potential losses stopped
-
-[![Install](https://img.shields.io/badge/⚡_INSTALL_EXTENSION-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=FreeRave.dotenvy)
-[![GitHub](https://img.shields.io/badge/🌟_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareem2099/dotenvy)
-[![Docs](https://img.shields.io/badge/📖_DOCUMENTATION-00D9FF?style=for-the-badge&logo=readme&logoColor=black)](https://github.com/kareem2099/dotenvy?tab=readme-ov-file#readme)
-[![Changelog](https://img.shields.io/badge/📝_CHANGELOG-ff0080?style=for-the-badge&logo=git&logoColor=white)](https://github.com/kareem2099/dotenvy/blob/main/CHANGELOG.md)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ **DOTCTL** — Network Security Suite
-
-<img src="https://img.shields.io/badge/STATUS-⚡_AVAILABLE_FOR_PURCHASE-00ff00?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/LEVEL-💀_EXPERT-red?style=for-the-badge&labelColor=000000"/>
-
-**Enterprise-grade pentesting & network security toolkit**
-
-#### 🎯 CAPABILITIES:
-- 🕵️ **Deep Packet Inspection** — Every byte monitored
-- 🎯 **Automated Pentesting** — Security on steroids
-- 🔥 **ML Threat Detection** — AI finds anomalies
-- ⚡ **Performance Profiling** — Network optimization
-- 📊 **Live Analytics** — Beautiful dashboards
-- 🔧 **Extensible** — Plugin architecture
-
-#### 💪 TECH STACK:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Scapy](https://img.shields.io/badge/Scapy-003B57?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-**🎯 IMPACT:** 1000+ vulnerabilities discovered • Trusted by security teams
-
-[![Contact](https://img.shields.io/badge/💬_CONTACT_FOR_PURCHASE-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:kareem2099@gmail.com)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://FreeRave.gallerycdn.vsassets.io/extensions/freerave/dotsense/1.3.0/1767900659573/Microsoft.VisualStudio.Services.Icons.Default" width="30"/> **DotSense** — AI Wellness Coach
-
-<img src="https://img.shields.io/badge/STATUS-🔥_PRODUCTION-00ff00?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/TYPE-VS_CODE_EXTENSION-007ACC?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/visual-studio-marketplace/i/FreeRave.dotsense?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000&label=INSTALLS"/>
-
-**Preventing developer burnout with behavioral ML**
-
-#### 💥 INTELLIGENCE:
-- 🧠 **Behavioral ML** — Learns work patterns
-- ⏰ **Smart Breaks** — Prevents burnout
-- 📊 **Analytics** — Privacy-first tracking
-- 💪 **Gamification** — Fun healthy habits
-- 🎯 **Goal Tracking** — Wellness journey
-
-#### 📈 RESULTS:
-```javascript
-✓ 40% less burnout
-✓ 25% productivity boost
-✓ 60% better work-life balance
-✓ 1000+ hours reclaimed
-```
-
-#### 💪 TECH STACK:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-[![Install](https://img.shields.io/badge/⚡_INSTALL_EXTENSION-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=FreeRave.break-bully)
-[![GitHub](https://img.shields.io/badge/🌟_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareem2099/break-bully)
-[![Docs](https://img.shields.io/badge/📖_DOCUMENTATION-00D9FF?style=for-the-badge&logo=readme&logoColor=black)](https://github.com/kareem2099/break-bully?tab=readme-ov-file#readme)
-[![Changelog](https://img.shields.io/badge/📝_CHANGELOG-ff0080?style=for-the-badge&logo=git&logoColor=white)](https://github.com/kareem2099/break-bully/blob/main/CHANGELOG.md)
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotcommand/1.4.0/1768342022802/Microsoft.VisualStudio.Services.Icons.Default" width="30"/> **DotCommand** — AI Terminal
-
-<img src="https://img.shields.io/badge/STATUS-🔥_PRODUCTION-00ff00?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/TYPE-VS_CODE_EXTENSION-007ACC?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/visual-studio-marketplace/i/FreeRave.dotcommand?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000&label=INSTALLS"/>
-
-**Revolutionary AI command & task management**
-
-#### 💥 FEATURES:
-- 🤖 **AI Suggestions** — Learns history
-- 📋 **Project Context** — Knows your work
-- 🔄 **Multi-Machine Sync** — Everywhere
-- 🎨 **Beautiful UI** — Terminal art
-- ⚡ **Lightning Fast** — Instant search
-- 📊 **Analytics** — Usage insights
-
-#### 🚀 SPEED:
-```bash
-Before: 2 min finding commands
-After: 5 sec with AI
-Time Saved: 50%+
-```
-
-#### 💪 TECH STACK:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![AI](https://img.shields.io/badge/AI-00D9FF?style=flat-square&logo=openai&logoColor=white)
-
-[![Install](https://img.shields.io/badge/⚡_INSTALL_EXTENSION-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=FreeRave.dotcommand)
-[![GitHub](https://img.shields.io/badge/🌟_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareem2099/dotcommand)
-[![Docs](https://img.shields.io/badge/📖_DOCUMENTATION-00D9FF?style=for-the-badge&logo=readme&logoColor=black)](https://github.com/kareem2099/dotcommand?tab=readme-ov-file#readme)
-[![Changelog](https://img.shields.io/badge/📝_CHANGELOG-ff0080?style=for-the-badge&logo=git&logoColor=white)](https://github.com/kareem2099/dotcommand/blob/main/CHANGELOG.md)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotshare/2.1.0/1766614875942/Microsoft.VisualStudio.Services.Icons.Default" width="30"/> **DotShare** — Code Sharing Made Easy
-
-<img src="https://img.shields.io/badge/STATUS-🔥_PRODUCTION-00ff00?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/TYPE-VS_CODE_EXTENSION-007ACC?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/visual-studio-marketplace/i/FreeRave.dotshare?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000&label=INSTALLS"/>
-
-**Instant code sharing with security & style**
-
-#### 💥 FEATURES:
-- ⚡ **Instant Share** — One-click code sharing
-- 🔐 **Secure Links** — Password protection
-- 🎨 **Syntax Highlighting** — Beautiful previews
-- ⏱️ **Expiring Links** — Auto-delete after time
-- 📊 **Analytics** — Track shares
-- 🌍 **Public/Private** — Control visibility
-
-#### 💪 TECH STACK:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-[![Install](https://img.shields.io/badge/⚡_INSTALL_EXTENSION-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=FreeRave.dotshare)
-[![GitHub](https://img.shields.io/badge/🌟_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareem2099/DotShare)
-[![Docs](https://img.shields.io/badge/📖_DOCUMENTATION-00D9FF?style=for-the-badge&logo=readme&logoColor=black)](https://github.com/kareem2099/DotShare?tab=readme-ov-file#readme)
-[![Changelog](https://img.shields.io/badge/📝_CHANGELOG-ff0080?style=for-the-badge&logo=git&logoColor=white)](https://github.com/kareem2099/DotShare/blob/master/CHANGELOG.md)
-
-
-
-</td>
-<td width="50%" valign="top">
-
- ### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotfetch/1.0.0/1768504445024/Microsoft.VisualStudio.Services.Icons.Default" width="30"/> **DotFetch** — Professional HTTP Client
-
-<img src="https://img.shields.io/badge/STATUS-🔥_PRODUCTION-00ff00?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/TYPE-VS_CODE_EXTENSION-007ACC?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/visual-studio-marketplace/i/FreeRave.dotfetch?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000&label=INSTALLS"/>
-
-**Modern API testing & development within VS Code**
-
-#### 💥 POWER FEATURES:
-- 🌐 **Complete HTTP Client** — All methods supported
-- 🔄 **Environment Variables** — `.env` file integration
-- 📁 **Request Collections** — Organize by project
-- 🔗 **cURL Import/Export** — Seamless workflow
-- 📊 **Request History** — Track all API calls
-- 🎨 **Professional UI** — Native dark theme
-- ⚡ **Lightning Fast** — Optimized performance
-
-#### 🚀 CAPABILITIES:
-```javascript
-✓ All HTTP methods (GET, POST, PUT, DELETE, etc.)
-✓ Custom headers & query parameters
-✓ JSON body with syntax highlighting
-✓ Live environment variable substitution
-✓ Response analysis & status codes
-✓ Timeout configuration
-✓ Auto-save functionality
-```
-
-#### 💪 TECH STACK:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-
-**🎯 IMPACT:** Streamlined API testing for 1000+ developers • 5-star rated
-
-[![Install](https://img.shields.io/badge/⚡_INSTALL_EXTENSION-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=FreeRave.dotfetch)
-[![GitHub](https://img.shields.io/badge/🌟_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareem2099/DotFetch)
-[![Docs](https://img.shields.io/badge/📖_DOCUMENTATION-00D9FF?style=for-the-badge&logo=readme&logoColor=black)](https://github.com/kareem2099/DotFetch?tab=readme-ov-file#readme)
-[![Changelog](https://img.shields.io/badge/📝_CHANGELOG-ff0080?style=for-the-badge&logo=git&logoColor=white)](https://github.com/kareem2099/DotFetch/blob/main/CHANGELOG.md)
-
-</td> </tr>
-<td colspan="2" valign="top">
-
-### 🎯 **EXPLORE THE COMPLETE DOTSUITE**
-
-**5 Production Extensions • 10,000+ Active Users**
-
-The DotSuite is a comprehensive ecosystem of developer tools designed to enhance productivity, security, and wellness in your development workflow.
-
-#### <img src="https://FreeRave.gallerycdn.vsassets.io/extensions/freerave/dotenvy/1.3.0/1766956361829/Microsoft.VisualStudio.Services.Icons.Default" width="20"/> **DotEnvy** — AI Security Platform
-Smart `.env` management with ML-powered secret detection
-
-#### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotsense/1.3.0/1767900659573/Microsoft.VisualStudio.Services.Icons.Default" width="20"/> **DotSense** — Wellness Coach  
-Behavioral ML prevents burnout & boosts productivity
-
-#### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotcommand/1.4.0/1768342022802/Microsoft.VisualStudio.Services.Icons.Default" width="20"/> **DotCommand** — AI Terminal
-Intelligent command history with AI suggestions
-
-#### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotshare/2.1.0/1766614875942/Microsoft.VisualStudio.Services.Icons.Default" width="20"/> **DotShare** — Code Sharing
-Instant secure code sharing with beautiful previews
-
-#### <img src="https://freerave.gallerycdn.vsassets.io/extensions/freerave/dotfetch/1.0.0/1768504445024/Microsoft.VisualStudio.Services.Icons.Default" width="20"/> **DotFetch** — HTTP Client
-Professional API testing right in VS Code
 
 ---
 
-**🎯 COMBINED IMPACT:**
-```bash
-✓ 10,000+ secrets prevented from leaking
-✓ 1,000+ hours of developer time saved
-✓ 5,000+ vulnerabilities detected
-✓ 40% reduction in burnout
-✓ 25% productivity increase
-```
+## 👋 Hi, I'm FreeRave
 
-**💎 All tools are:**
-- Production-ready & battle-tested
-- Actively maintained & updated
-- Open-source & community-driven
-- Seamlessly integrated with VS Code
+I'm an independent developer and open-source creator, building **[DotSuite](https://github.com/kareem2099/dotsuite)** and **[dotUniverse](https://github.com/kareem2099/dotuniverse)**: a growing ecosystem of developer tools, VS Code extensions, and privacy-first desktop apps.
 
-[![Explore All Tools](https://img.shields.io/badge/🚀_EXPLORE_ALL_TOOLS-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=black)](https://marketplace.visualstudio.com/publishers/FreeRave)
-
-</td>
-</tr>
-
-[📖 View All →](#)
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Everything I build follows one idea: **practical, transparent, developer-first, and open source under the Apache 2.0 license.**
 
 <div align="center">
 
-## 💻 TECHNICAL EXPERTISE
-
-### 🔥 CORE TECH STACK
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-<br>Flutter
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-<br>Dart
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-</tr>
-</table>
-
-### ⚡ FRONTEND - PIXEL PERFECT
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-### 📱 MOBILE - CROSS-PLATFORM BEAST
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🔧 BACKEND - PRODUCTION READY
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
-
-### 🤖 AI/ML - CUSTOM MODEL ARCHITECT
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### ☁️ CLOUD & DEVOPS - ENTERPRISE SCALE
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🗄️ DATABASES - OPTIMIZED AT SCALE
-
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🛡️ SECURITY - PRO LEVEL
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
+![Tools](https://img.shields.io/badge/TOOLS_BUILT-20%2B-00D9FF?style=for-the-badge&labelColor=000000)
+![Downloads](https://img.shields.io/badge/DOWNLOADS-19.5K%2B-00ff88?style=for-the-badge&labelColor=000000)
+![Articles](https://img.shields.io/badge/ARTICLES-90%2B-ff0080?style=for-the-badge&labelColor=000000)
+![License](https://img.shields.io/badge/LICENSE-Apache_2.0-blue?style=for-the-badge&labelColor=000000)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## 🛠️ What I've Built
+
+| Project | Type | What it does |
+|:---|:---:|:---|
+| 🚀 [**DotShare**](https://github.com/kareem2099/DotShare) | VS Code | Publish code snippets and content to multiple platforms from one place, with an AI Copilot for writing posts |
+| 🔐 [**DotEnvy**](https://github.com/kareem2099/dotenvy) | VS Code | Environment variable manager with encrypted `.env` files and a 4-layer AI secret-leak detection pipeline |
+| 🛡️ [**DotAegis**](https://github.com/kareem2099/DotAegis) | Cloud AI | Fast secret scanning and credential-leak prevention |
+| 👻 [**DotGhostBoard**](https://github.com/kareem2099/DotGhostBoard) | Linux | Privacy-first clipboard manager with an AES-256 encrypted vault |
+| 🔒 [**DotScramble**](https://github.com/kareem2099/DotScramble) | Linux | Image privacy studio: face and license-plate redaction, batch obfuscation |
+| 📡 [**DotFetch**](https://github.com/kareem2099/DotFetch) | VS Code | Lightweight REST/GraphQL client inside your editor |
+| 🎵 [**CodeTune**](https://github.com/kareem2099/codetune) | VS Code | Focus environment and audio player for long coding sessions |
+| 🌐 [**DotSuite**](https://github.com/kareem2099/dotsuite) | Platform | Distribution hub built with Next.js, Rust (Axum) and multi-language i18n |
+
+Also: [DotCommand](https://github.com/kareem2099/dotcommand) (AI terminal history) and [DotSense](https://github.com/kareem2099/break-bully) (developer wellness), among others.
 
 <div align="center">
 
-## 📊 GITHUB METRICS & ANALYTICS — STATS THAT SPEAK
-
-<br><br>
-
-<img width="49%" height="195px" src="https://github-readme-stats-freerave.vercel.app/api?username=kareem2099&show_icons=true&count_private=true&hide_border=false&title_color=00D9FF&icon_color=00ff88&text_color=c9d1d9&bg_color=000000&border_radius=10&border_color=00D9FF" alt="kareem's Stats" /> 
-<img width="49%" height="195px" src="https://github-readme-stats-freerave.vercel.app/api/top-langs/?username=kareem2099&layout=compact&hide_border=false&title_color=00D9FF&text_color=c9d1d9&bg_color=000000&border_radius=10&langs_count=10&border_color=00D9FF" />
-
-<br><br><br>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem2099&theme=black-ice&hide_border=false&stroke=00D9FF&background=000000&ring=00D9FF&fire=ff0080&currStreakLabel=00D9FF&border_radius=10&border=00D9FF" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kareem2099&theme=github_dark&utcOffset=3" />
-
-<br><br><br>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem2099&theme=github_dark" />
-
-<br><br><br>
-
-### 🔥 FEATURED OPEN-SOURCE WORK
-
-<a href="https://github.com/kareem2099/dotenvy">
-  <img align="center" src="https://github-readme-stats-freerave.vercel.app/api/pin/?username=kareem2099&repo=dotenvy&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=00ff88&border_color=00D9FF&border_radius=10" />
-</a>
-
-<br><br>
+[![Explore all extensions](https://img.shields.io/badge/Explore_all_extensions-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/publishers/FreeRave)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## 💻 Tech Stack
+
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Web & Backend:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Axum](https://img.shields.io/badge/Rust_Axum-000000?style=flat-square&logo=rust&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**Desktop & Editor:** ![VS Code API](https://img.shields.io/badge/VS_Code_API-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt%2FPySide-41CD52?style=flat-square&logo=qt&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**AI/ML:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+
+**DevOps & Env:** ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-## 🌐 LIVE PORTFOLIO — SEE MY WORK IN ACTION
-
-<a href="https://portfolio-workzilla.vercel.app/en">
-<img src="https://img.shields.io/badge/🚀_EXPLORE_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" height="60"/>
-</a>
-
-<br><br>
-
-### ✨ WHAT YOU'LL FIND:
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/portfolio.png" width="60"/><br>
-<b>FULL PROJECT SHOWCASE</b><br>
-<sub>20+ production apps</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br>
-<b>CODE SAMPLES</b><br>
-<sub>Real implementations</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/video.png" width="60"/><br>
-<b>LIVE DEMOS</b><br>
-<sub>Interactive previews</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/comments.png" width="60"/><br>
-<b>TESTIMONIALS</b><br>
-<sub>Client reviews</sub>
-</td>
-</tr>
-</table>
-
-**🎯 BUILT WITH:** Next.js 15 • TypeScript • Tailwind CSS • Framer Motion • Vercel
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 💪 WHY CHOOSE ME? — Value Proposition
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 WHAT MAKES ME DIFFERENT
-
-```typescript
-const competitorVsMe = {
-  competitors: {
-    speed: "weeks",
-    quality: "sometimes buggy",
-    communication: "slow response",
-    tech_stack: "limited",
-    innovation: "copy-paste",
-    support: "after delivery? gone!"
-  },
-  
-  me: {
-    speed: "🚀 DAYS not weeks",
-    quality: "💎 Production-ready perfection",
-    communication: "⚡ < 24hr guaranteed",
-    tech_stack: "🛠️ Full-stack mastery",
-    innovation: "🧠 Custom solutions",
-    support: "💪 Long-term partnership"
-  }
-};
-
-// The numbers don't lie
-const results = {
-  code_quality: "A+ Grade",
-  bug_rate: "< 1%",
-  on_time_delivery: "100%",
-  client_satisfaction: "98%",
-  repeat_clients: "85%"
-};
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 CORE COMPETENCIES
-
-#### 💻 FULL-STACK DEVELOPMENT
-```bash
-✓ Next.js Web Applications
-✓ React Dashboards & SaaS
-✓ E-commerce Platforms
-✓ Real-time Applications
-✓ Progressive Web Apps
-```
-
-#### 📱 MOBILE DEVELOPMENT
-```bash
-✓ Flutter iOS/Android Apps
-✓ Cross-platform Solutions
-✓ Native Integrations
-✓ App Store Publishing
-✓ Firebase Integration
-```
-
-#### 🤖 AI/ML INTEGRATION
-```bash
-✓ Custom LLM Implementation
-✓ Chatbots & Virtual Assistants
-✓ ML Model Training
-✓ Data Analysis & Insights
-✓ Automation Systems
-```
-
-#### 🔐 SECURITY & DEVOPS
-```bash
-✓ Penetration Testing
-✓ Security Audits
-✓ CI/CD Pipeline Setup
-✓ Cloud Infrastructure
-✓ Monitoring & Analytics
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 💝 SUPPORT MY JOURNEY — CODE WITH PURPOSE
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=ff0080&center=true&vCenter=true&width=900&lines=Every+Star+Every+Dollar+Every+Share;Brings+Me+Closer+To+My+Dream+Wedding;Supporting+Open+Source+Supporting+Love" alt="Support Message" />
+<img width="49%" src="https://github-readme-stats-freerave.vercel.app/api?username=kareem2099&show_icons=true&count_private=true&hide_border=false&title_color=00D9FF&icon_color=00ff88&text_color=c9d1d9&bg_color=000000&border_radius=10&border_color=00D9FF" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats-freerave.vercel.app/api/top-langs/?username=kareem2099&layout=compact&hide_border=false&title_color=00D9FF&text_color=c9d1d9&bg_color=000000&border_radius=10&langs_count=8&border_color=00D9FF" alt="Top languages" />
 
 <br>
-
-### 🎯 THE REAL STORY BEHIND THE CODE
-
-I'm not just shipping features—I'm **building my future**. Every line of code I write, every tool I create, every bug I fix is bringing me one step closer to marrying the love of my life. 💍
-
-**This isn't just work. This is my mission.**
-
-<br>
-
-### 💖 YOUR SUPPORT MEANS EVERYTHING
-
-<a href="https://github.com/sponsors/kareem2099">
-<img src="https://img.shields.io/badge/💖_GITHUB_SPONSORS-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=000000" height="60"/>
-</a>
-<a href="https://www.paypal.com/paypalme/freerave1">
-<img src="https://img.shields.io/badge/💳_PAYPAL-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=000000" height="60"/>
-</a>
-<a href="https://www.buymeacoffee.com/freerave">
-<img src="https://img.shields.io/badge/☕_BUY_COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=000000" height="60"/>
-</a>
-<a href="https://ko-fi.com/freerave">
-<img src="https://img.shields.io/badge/🎁_KO--FI-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=000000" height="60"/>
-</a>
-
-<br><br>
-
-### 🌟 CAN'T DONATE? YOU CAN STILL HELP MASSIVELY:
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/star.png" width="60"/><br>
-<b>⭐ STAR MY REPOS</b><br>
-<sub>Visibility = Growth</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/share.png" width="60"/><br>
-<b>📢 SHARE MY WORK</b><br>
-<sub>Tell other devs</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br>
-<b>🐛 CONTRIBUTE</b><br>
-<sub>PRs welcome!</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-> *"To everyone who stars a repo, shares my work, or contributes even $1—you're not just supporting code.*
-> 
-> *You're supporting a **dream**, a **future**, and a **love story** that will last forever.*
-> 
-> *From the deepest part of my heart: **THANK YOU** for being part of this incredible journey."*
-> 
-> **— kareem, The Code Crusher 💍**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 🤝 LET'S BUILD LEGENDARY SOFTWARE TOGETHER
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Open+For+Hire+Freelance+Consulting;Response+Time+Less+Than+24+Hours;Lets+Turn+Ideas+Into+Reality" alt="Collaboration" />
-
-<br>
-
-### 📬 MULTIPLE WAYS TO REACH ME
-
-<a href="mailto:kareem2099@gmail.com">
-<img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="50"/>
-</a>
-<a href="https://www.linkedin.com/in/freerave/">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="50"/>
-</a>
-<a href="https://portfolio-workzilla.vercel.app/en">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" height="50"/>
-</a>
-<a href="https://t.me/Dot_FreeRave">
-<img src="https://img.shields.io/badge/💬_TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" height="50"/>
-</a>
-
-<br><br>
-
-### ⚡ MY COMMITMENT TO YOU
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="70"/><br>
-<b>🚀 FAST DELIVERY</b><br>
-<sub>Sprint speed, marathon quality</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/approval.png" width="70"/><br>
-<b>💎 PREMIUM CODE</b><br>
-<sub>Clean, scalable, maintainable</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/communication.png" width="70"/><br>
-<b>💬 CLEAR COMMUNICATION</b><br>
-<sub>Daily updates, transparent</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/guarantee.png" width="70"/><br>
-<b>🛡️ QUALITY GUARANTEE</b><br>
-<sub>100% satisfaction or refund</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-### 💎 MY ENGINEERING PHILOSOPHY
-
-> *"I don't just write code; I architect solutions. My goal is to deliver generic, scalable systems that solve real problems, not just close tickets."*
-> **— Architecture First**
-
-> *"Security isn't a feature; it's a foundation. Whether it's DotEnv or a Flutter app, I build with a 'Security-by-Design' mindset to protect user data."*
-> **— Security Mindset**
-
-> *"Speed matters, but quality is non-negotiable. I ship production-ready features fast by leveraging modern stacks like Next.js 15 and Flutter."*
-> **— Performance Focused**
-
-> *"I build tools that I would use myself. If the Developer Experience (DX) isn't perfect, the job isn't done yet."*
-> **— Obsession with Quality**
-
-> *"Communication is part of the code. I believe in transparent updates, clear documentation, and being a partner in success, not just a freelancer."*
-> **— Professionalism**
-
-<br>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## ⚡ RAPID-FIRE FACTS — GET TO KNOW THE FOUNDER
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 BY THE NUMBERS
-
-```yaml
-age: 28
-location: "🇪🇬 Egypt"
-timezone: "GMT+2 (Available 24/7)"
-languages: ["Arabic (Native)", "English (Fluent)"]
-current_status: "Shipping features at 3 AM"
-
-work_stats:
-  years_coding: "10+"
-  production_lines: "500,000+"
-  projects_completed: "50+"
-  happy_clients: "100+"
-  coffee_per_day: "∞"
-  
-personality:
-  problem_solver: "Expert level"
-  perfectionist: "Yes, proudly"
-  night_owl: "3 AM = peak productivity"
-  fast_learner: "New tech in days"
-  team_player: "But solo warrior too"
-
-motto: "If it doesn't exist, I'll build it"
-superpower: "Turning caffeine into code"
-weakness: "Can't resist a coding challenge"
-```
-
-</td>
-<td width="50%">
-
-### 🎯 ARCHITECT'S ROUTINE
-
-```typescript
-const myDay = {
-  "06:00": "☀️ Wake up + Fajr prayer",
-  "07:00": "☕ Coffee #1 + GitHub check",
-  "08:00": "💻 Deep work starts",
-  "12:00": "🍽️ Lunch break",
-  "13:00": "💻 Client meetings",
-  "16:00": "🏃 Gym / 5K run",
-  "18:00": "💻 Peak coding time",
-  "22:00": "☕ Coffee #5",
-  "23:00": "💻 Night coding (best time)",
-  "02:00": "📚 Learn new tech",
-  "03:00": "😴 Sleep (maybe)",
-};
-
-const music_for = {
-  coding: ["Lo-fi", "Synthwave", "EDM"],
-  debugging: ["Heavy Metal", "Rock"],
-  deploying: ["Epic Orchestral"],
-  celebrating: ["Trap", "Hip-Hop"]
-};
-
-const goals_2027 = {
-  professional: [
-    "Scale DotSuite to 100K users",
-    "Speak at 5 conferences",
-    "Open-source more projects",
-    "Reach $100K MRR"
-  ],
-  personal: [
-    "💍 Save for wedding",
-    "🏋️ Hit 90kg bodyweight",
-    "📚 Read 24 books",
-    "🌍 Travel to 3 countries"
-  ]
-};
-```
-
-</td>
-</tr>
-</table>
-
-### 🚀 2026 MISSIONS & TARGETS
-
-```diff
-+ 🏆 Scale DotSuite to serve 10,000+ active users
-+ 💎 Write 100,000+ lines of high-performance code
-+ 🚀 Build systems that detect 99% of security threats
-+ ⚡ Optimize client pipelines for 10x faster deployment
-+ 🎯 Train custom LLMs with enterprise-grade accuracy
-+ 💪 Help 1000+ developers through open source tools
-+ 🔐 Secure enterprise systems with Zero-Trust architecture
-+ ⭐ Reach 1000+ GitHub stars through consistent value
-+ 📱 Ship Flutter apps targeting 4.8★ user experience
-+ 🌍 Expand software reach to global markets
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 🐍 CONTRIBUTION SNAKE — DEVOURING CHALLENGES
 
 ![Snake animation](https://raw.githubusercontent.com/kareem2099/kareem2099/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<div align="center">
+## ✍️ Latest Writing
 
-## 🌐 CONNECT EVERYWHERE — I'M ACTIVE ON ALL PLATFORMS
-
-<a href="https://www.linkedin.com/in/freerave/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/FreeRave2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.facebook.com/kareem.ehab20?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.reddit.com/user/BagNew5318/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-<a href="https://dev.to/freerave"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-<a href="https://medium.com/@freerave"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="mailto:kareem2099@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br><br>
-
-<div align="center">
-
-## 📊 PROFILE ANALYTICS — WATCH THE GROWTH
-
-![Profile Views](https://komarev.com/ghpvc/?username=kareem2099&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/kareem2099?style=for-the-badge&color=00ff88&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/kareem2099?style=for-the-badge&color=ff0080&label=TOTAL+STARS)
-
-![Repos](https://img.shields.io/badge/dynamic/json?color=00D9FF&label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkareem2099&style=for-the-badge&logo=github&logoColor=white)
-![Commits](https://img.shields.io/github/last-commit/kareem2099/kareem2099?style=for-the-badge&color=00ff88&label=LAST+COMMIT)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-<div align="center">
-
-## ✍️ LATEST WRITINGS — TECH THOUGHTS
+I write about security, developer tooling, and architecture on [dev.to](https://dev.to/freerave) (4,000+ followers).
 
 <!-- BLOG-POST-LIST:START -->
 - [Building an Automated, API-Driven Stats &amp; Version Synchronizer for VS Code Extensions with 24-Hour Smart Caching &lpar;dotUniverse v1.2.0&rpar;](https://dev.to/freerave/building-an-automated-api-driven-stats-version-synchronizer-for-vs-code-extensions-with-24-hour-4inm) 
@@ -1004,42 +103,43 @@ const goals_2027 = {
 - [DotGhostBoard 2.0.0 “Cerberus”: Building a Native Cryptographic Clipboard and Vault for Linux](https://freerave.medium.com/dotghostboard-2-0-0-cerberus-building-a-native-cryptographic-clipboard-and-vault-for-linux-75dba412f032?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
-</div>
+---
 
-<br><br>
+## 🤝 Work With Me
 
-## 💬 INSPIRATIONAL QUOTE
+I'm open to:
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&border_color=00D9FF)
+- 🧩 **VS Code extension & developer-tooling** development and consulting
+- 🤖 **AI/LLM integration** (custom models, secret detection, automation)
+- 🔐 **Secure backend work** (Rust/Axum, Python/FastAPI, Node.js)
+- ✍️ **Technical writing** and open-source collaborations
 
-</div>
+📧 [kareem209907@gmail.com](mailto:kareem209907@gmail.com) · 💬 [Telegram](https://t.me/Dot_FreeRave) · 🌐 [Website](https://dotsuite.dev/en)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## ❤️ Support the Work
+
+Building and maintaining 20+ free tools as a solo developer takes real time and real infrastructure (hosting, APIs, AI costs). Sponsorship keeps everything **free, Apache 2.0-licensed, and actively maintained**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/kareem2099)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/freerave)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/freerave)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/freerave1)
 
-<br>
+**Can't sponsor?** ⭐ Star the repos, 📢 share the tools, or 🐛 open an issue or PR. It all helps.
 
-### ⭐ FROM [kareem](https://github.com/kareem2099) • MADE WITH 💜 AND ☕
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+The+Future+One+Commit+At+A+Time;Code+With+Passion+Build+With+Purpose;Lets+Make+Something+LEGENDARY+Together" alt="Footer" />
+---
 
-<br>
+<div align="center">
 
-**💖 If this profile inspired you, smash that ⭐ button!**
+![Profile Views](https://komarev.com/ghpvc/?username=kareem2099&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/kareem2099?style=for-the-badge&color=00ff88&label=FOLLOWERS)
 
-**🚀 If my tools helped you, consider [supporting my journey](#-support-my-journey--code-with-purpose)**
-
-**🌐 Check out my [live portfolio](https://portfolio-workzilla.vercel.app/en) to see my work in action**
-
-<br>
-
-<sub>Last updated: January 2026 • Crafted with 💜, ☕, and 15,000+ hours of pure dedication</sub>
-
-<br>
-
-[![Sponsor](https://img.shields.io/badge/💖_SPONSOR_MY_WORK-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/kareem2099)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
