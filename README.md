@@ -92,6 +92,8 @@ Also: [DotCommand](https://github.com/kareem2099/dotcommand) (AI terminal histor
 I write about security, developer tooling, and architecture on [dev.to](https://dev.to/freerave) (4,000+ followers).
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Automated VS Code Extension Stats Across Two Marketplaces](https://medium.com/codex/how-i-automated-vs-code-extension-stats-across-two-marketplaces-0125a5327e8b?source=rss-af64049c9005------2) 
+
 - [DotShare AI 3.5.2: From Git Tags to Technical Articles You Can Review](https://dev.to/freerave/dotshare-ai-352-from-git-tags-to-technical-articles-you-can-review-3lik) 
 
 - [DotGhostBoard 2.1 &#39;Leviathan&#39; — Cryptographic Vault Backups, Secret Expiry &amp; Password History &lpar;Part 2&rpar;](https://dev.to/freerave/dotghostboard-21-leviathan-cryptographic-vault-backups-secret-expiry-password-history-part-3pk8) 
@@ -99,8 +101,6 @@ I write about security, developer tooling, and architecture on [dev.to](https://
 - [The VSIX Packaging Trap: How We Eliminated Embedded Client Secrets from a VS Code Extension](https://blog.devops.dev/the-vsix-packaging-trap-how-we-eliminated-embedded-client-secrets-from-a-vs-code-extension-281139c94e3a?source=rss-af64049c9005------2) 
 
 - [DotGhostBoard 2.1 &#39;Leviathan&#39; — Smart Clipboard Tagging &amp; Contextual Actions on Linux &lpar;Part 1&rpar;](https://dev.to/freerave/dotghostboard-21-leviathan-smart-clipboard-tagging-contextual-actions-on-linux-part-1-5gb8) 
-
-- [Building an Automated, API-Driven Stats &amp; Version Synchronizer for VS Code Extensions with 24-Hour Smart Caching &lpar;dotUniverse v1.2.0&rpar;](https://dev.to/freerave/building-an-automated-api-driven-stats-version-synchronizer-for-vs-code-extensions-with-24-hour-4inm) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
