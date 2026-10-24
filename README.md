@@ -92,6 +92,8 @@ Also: [DotCommand](https://github.com/kareem2099/dotcommand) (AI terminal histor
 I write about security, developer tooling, and architecture on [dev.to](https://dev.to/freerave) (4,000+ followers).
 
 <!-- BLOG-POST-LIST:START -->
+- [I built a radial menu that converts any file on Linux](https://dev.to/freerave/i-built-a-radial-menu-that-converts-any-file-on-linux-4c4m) 
+
 - [DotGhostBoard 2.1](https://blog.devops.dev/dotghostboard-2-1-e0a294b95644?source=rss-af64049c9005------2) 
 
 - [Release Notes Need the Same Discipline as Releases](https://blog.devops.dev/release-notes-need-the-same-discipline-as-releases-85861ced7326?source=rss-af64049c9005------2) 
@@ -99,8 +101,6 @@ I write about security, developer tooling, and architecture on [dev.to](https://
 - [DotGhostBoard 2.1 “Leviathan”: Smart Clipboard Tagging &amp; Contextual Actions on Linux &lpar;Part 1&rpar;](https://blog.devops.dev/dotghostboard-2-1-leviathan-smart-clipboard-tagging-contextual-actions-on-linux-part-1-d33f4cbddcf7?source=rss-af64049c9005------2) 
 
 - [How I Automated VS Code Extension Stats Across Two Marketplaces](https://medium.com/codex/how-i-automated-vs-code-extension-stats-across-two-marketplaces-0125a5327e8b?source=rss-af64049c9005------2) 
-
-- [DotShare AI 3.5.2: From Git Tags to Technical Articles You Can Review](https://dev.to/freerave/dotshare-ai-352-from-git-tags-to-technical-articles-you-can-review-3lik) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
