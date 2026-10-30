@@ -92,6 +92,8 @@ Also: [DotCommand](https://github.com/kareem2099/dotcommand) (AI terminal histor
 I write about security, developer tooling, and architecture on [dev.to](https://dev.to/freerave) (4,000+ followers).
 
 <!-- BLOG-POST-LIST:START -->
+- [8 backends, one engine, and the SVG bug that started it all](https://dev.to/freerave/8-backends-one-engine-and-the-svg-bug-that-started-it-all-3ooo) 
+
 - [I built a Linux app that hides faces, license plates and GPS from your photos](https://dev.to/freerave/i-built-a-linux-app-that-hides-faces-license-plates-and-gps-from-your-photos-3h97) 
 
 - [I built a radial menu that converts any file on Linux](https://dev.to/freerave/i-built-a-radial-menu-that-converts-any-file-on-linux-4c4m) 
@@ -99,8 +101,6 @@ I write about security, developer tooling, and architecture on [dev.to](https://
 - [DotGhostBoard 2.1](https://blog.devops.dev/dotghostboard-2-1-e0a294b95644?source=rss-af64049c9005------2) 
 
 - [Release Notes Need the Same Discipline as Releases](https://blog.devops.dev/release-notes-need-the-same-discipline-as-releases-85861ced7326?source=rss-af64049c9005------2) 
-
-- [DotGhostBoard 2.1 “Leviathan”: Smart Clipboard Tagging &amp; Contextual Actions on Linux &lpar;Part 1&rpar;](https://blog.devops.dev/dotghostboard-2-1-leviathan-smart-clipboard-tagging-contextual-actions-on-linux-part-1-d33f4cbddcf7?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
