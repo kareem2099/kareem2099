@@ -98,9 +98,9 @@ I write about security, developer tooling, and architecture on [dev.to](https://
 
 - [I built a radial menu that converts any file on Linux](https://dev.to/freerave/i-built-a-radial-menu-that-converts-any-file-on-linux-4c4m) 
 
-- [DotGhostBoard 2.1](https://blog.devops.dev/dotghostboard-2-1-e0a294b95644?source=rss-af64049c9005------2) 
+- [I built a radial menu that converts any file on Linux](https://medium.com/codex/i-built-a-radial-menu-that-converts-any-file-on-linux-e2f0da3ae719?source=rss-af64049c9005------2) 
 
-- [Release Notes Need the Same Discipline as Releases](https://blog.devops.dev/release-notes-need-the-same-discipline-as-releases-85861ced7326?source=rss-af64049c9005------2) 
+- [DotGhostBoard 2.1](https://blog.devops.dev/dotghostboard-2-1-e0a294b95644?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
