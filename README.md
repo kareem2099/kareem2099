@@ -92,6 +92,8 @@ Also: [DotCommand](https://github.com/kareem2099/dotcommand) (AI terminal histor
 I write about security, developer tooling, and architecture on [dev.to](https://dev.to/freerave) (4,000+ followers).
 
 <!-- BLOG-POST-LIST:START -->
+- [Building DotScramble Part 4: A New UI in One Stylesheet, 7 Languages With Real Plurals, and the Bugs Only a Clean Machine Found](https://dev.to/freerave/building-dotscramble-part-4-a-new-ui-in-one-stylesheet-7-languages-with-real-plurals-and-the-4618) 
+
 - [8 backends, one engine, and the SVG bug that started it all](https://dev.to/freerave/8-backends-one-engine-and-the-svg-bug-that-started-it-all-3ooo) 
 
 - [I built a Linux app that hides faces, license plates and GPS from your photos](https://dev.to/freerave/i-built-a-linux-app-that-hides-faces-license-plates-and-gps-from-your-photos-3h97) 
@@ -99,8 +101,6 @@ I write about security, developer tooling, and architecture on [dev.to](https://
 - [I built a radial menu that converts any file on Linux](https://dev.to/freerave/i-built-a-radial-menu-that-converts-any-file-on-linux-4c4m) 
 
 - [I built a radial menu that converts any file on Linux](https://medium.com/codex/i-built-a-radial-menu-that-converts-any-file-on-linux-e2f0da3ae719?source=rss-af64049c9005------2) 
-
-- [DotGhostBoard 2.1](https://blog.devops.dev/dotghostboard-2-1-e0a294b95644?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
