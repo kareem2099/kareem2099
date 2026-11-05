@@ -96,11 +96,11 @@ I write about security, developer tooling, and architecture on [dev.to](https://
 
 - [8 backends, one engine, and the SVG bug that started it all](https://dev.to/freerave/8-backends-one-engine-and-the-svg-bug-that-started-it-all-3ooo) 
 
+- [I built a Linux app that hides faces, license plates and GPS from your photos](https://freerave.medium.com/i-built-a-linux-app-that-hides-faces-license-plates-and-gps-from-your-photos-cb9b46cd1baf?source=rss-af64049c9005------2) 
+
 - [I built a Linux app that hides faces, license plates and GPS from your photos](https://dev.to/freerave/i-built-a-linux-app-that-hides-faces-license-plates-and-gps-from-your-photos-3h97) 
 
 - [I built a radial menu that converts any file on Linux](https://dev.to/freerave/i-built-a-radial-menu-that-converts-any-file-on-linux-4c4m) 
-
-- [I built a radial menu that converts any file on Linux](https://medium.com/codex/i-built-a-radial-menu-that-converts-any-file-on-linux-e2f0da3ae719?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
