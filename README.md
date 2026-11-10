@@ -92,6 +92,8 @@ Also: [DotCommand](https://github.com/kareem2099/dotcommand) (AI terminal histor
 I write about security, developer tooling, and architecture on [dev.to](https://dev.to/freerave) (4,000+ followers).
 
 <!-- BLOG-POST-LIST:START -->
+- [DotShare Part 1: From an AI draft to a reviewed social post](https://freerave.medium.com/dotshare-part-1-from-an-ai-draft-to-a-reviewed-social-post-6863c6e8cb71?source=rss-af64049c9005------2) 
+
 - [DotShare Part 1: From an AI draft to a reviewed social post](https://dev.to/freerave/dotshare-part-1-from-an-ai-draft-to-a-reviewed-social-post-21jn) 
 
 - [Making a file converter feel alive with QML](https://dev.to/freerave/making-a-file-converter-feel-alive-with-qml-5gl6) 
@@ -99,8 +101,6 @@ I write about security, developer tooling, and architecture on [dev.to](https://
 - [Rebuilding DotReminder: Glass UI, Reliable Reminders, and AI Drafts](https://dev.to/freerave/rebuilding-dotreminder-glass-ui-reliable-reminders-and-ai-drafts-489m) 
 
 - [Building DotScramble Part 4: A New UI in One Stylesheet, 7 Languages With Real Plurals, and the Bugs Only a Clean Machine Found](https://dev.to/freerave/building-dotscramble-part-4-a-new-ui-in-one-stylesheet-7-languages-with-real-plurals-and-the-4618) 
-
-- [8 backends, one engine, and the SVG bug that started it all](https://dev.to/freerave/8-backends-one-engine-and-the-svg-bug-that-started-it-all-3ooo) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
