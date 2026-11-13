@@ -92,15 +92,15 @@ Also: [DotCommand](https://github.com/kareem2099/dotcommand) (AI terminal histor
 I write about security, developer tooling, and architecture on [dev.to](https://dev.to/freerave) (4,000+ followers).
 
 <!-- BLOG-POST-LIST:START -->
+- [Building DotShredzilla &lpar;Part 1&rpar;: The Best Sign-In Screen Is the One You See Once](https://freerave.medium.com/building-dotshredzilla-part-1-the-best-sign-in-screen-is-the-one-you-see-once-b3f077b14266?source=rss-af64049c9005------2) 
+
+- [Building DotShredzilla &lpar;Part 1&rpar;: The Best Sign-In Screen Is the One You See Once](https://dev.to/freerave/building-dotshredzilla-part-1-the-best-sign-in-screen-is-the-one-you-see-once-2oaf) 
+
+- [Building DotShredzilla &lpar;Part 2&rpar;: A Glass Design System with Two Palettes](https://dev.to/freerave/building-dotshredzilla-part-2-a-glass-design-system-with-two-palettes-3f79) 
+
 - [DotShare Part 1: From an AI draft to a reviewed social post](https://freerave.medium.com/dotshare-part-1-from-an-ai-draft-to-a-reviewed-social-post-6863c6e8cb71?source=rss-af64049c9005------2) 
 
 - [DotShare Part 1: From an AI draft to a reviewed social post](https://dev.to/freerave/dotshare-part-1-from-an-ai-draft-to-a-reviewed-social-post-21jn) 
-
-- [Making a file converter feel alive with QML](https://dev.to/freerave/making-a-file-converter-feel-alive-with-qml-5gl6) 
-
-- [Rebuilding DotReminder: Glass UI, Reliable Reminders, and AI Drafts](https://dev.to/freerave/rebuilding-dotreminder-glass-ui-reliable-reminders-and-ai-drafts-489m) 
-
-- [Building DotScramble Part 4: A New UI in One Stylesheet, 7 Languages With Real Plurals, and the Bugs Only a Clean Machine Found](https://dev.to/freerave/building-dotscramble-part-4-a-new-ui-in-one-stylesheet-7-languages-with-real-plurals-and-the-4618) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
