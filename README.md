@@ -92,15 +92,15 @@ Also: [DotCommand](https://github.com/kareem2099/dotcommand) (AI terminal histor
 I write about security, developer tooling, and architecture on [dev.to](https://dev.to/freerave) (4,000+ followers).
 
 <!-- BLOG-POST-LIST:START -->
+- [DotShare Part 2: Review, receipts, and an encrypted publishing library](https://dev.to/freerave/dotshare-part-2-review-receipts-and-an-encrypted-publishing-library-491h) 
+
 - [Building DotShredzilla &lpar;Part 1&rpar;: The Best Sign-In Screen Is the One You See Once](https://freerave.medium.com/building-dotshredzilla-part-1-the-best-sign-in-screen-is-the-one-you-see-once-b3f077b14266?source=rss-af64049c9005------2) 
 
 - [Building DotShredzilla &lpar;Part 1&rpar;: The Best Sign-In Screen Is the One You See Once](https://dev.to/freerave/building-dotshredzilla-part-1-the-best-sign-in-screen-is-the-one-you-see-once-2oaf) 
 
+- [Building DotShredzilla &lpar;Part 2&rpar;: A Glass Design System with Two Palettes](https://freerave.medium.com/building-dotshredzilla-part-2-a-glass-design-system-with-two-palettes-d076d9853b9d?source=rss-af64049c9005------2) 
+
 - [Building DotShredzilla &lpar;Part 2&rpar;: A Glass Design System with Two Palettes](https://dev.to/freerave/building-dotshredzilla-part-2-a-glass-design-system-with-two-palettes-3f79) 
-
-- [DotShare Part 1: From an AI draft to a reviewed social post](https://freerave.medium.com/dotshare-part-1-from-an-ai-draft-to-a-reviewed-social-post-6863c6e8cb71?source=rss-af64049c9005------2) 
-
-- [DotShare Part 1: From an AI draft to a reviewed social post](https://dev.to/freerave/dotshare-part-1-from-an-ai-draft-to-a-reviewed-social-post-21jn) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
