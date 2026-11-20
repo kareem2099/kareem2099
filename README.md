@@ -92,15 +92,15 @@ Also: [DotCommand](https://github.com/kareem2099/dotcommand) (AI terminal histor
 I write about security, developer tooling, and architecture on [dev.to](https://dev.to/freerave) (4,000+ followers).
 
 <!-- BLOG-POST-LIST:START -->
+- [Building DotShredzilla &lpar;Part 5&rpar;: Shipping to Google Play, the Parts Nobody Sees](https://dev.to/freerave/building-dotshredzilla-part-5-shipping-to-google-play-the-parts-nobody-sees-15k1) 
+
+- [Building DotShredzilla &lpar;Part 4&rpar;: Workout Mode, Records, Deloads and Body Insights](https://freerave.medium.com/building-dotshredzilla-part-4-workout-mode-records-deloads-and-body-insights-ba8b53457cff?source=rss-af64049c9005------2) 
+
+- [Building DotShredzilla &lpar;Part 4&rpar;: Workout Mode, Records, Deloads and Body Insights](https://dev.to/freerave/building-dotshredzilla-part-4-workout-mode-records-deloads-and-body-insights-387d) 
+
 - [Building DotShredzilla &lpar;Part 3&rpar;: What a Real Gym Session Taught My Data Model](https://freerave.medium.com/building-dotshredzilla-part-3-what-a-real-gym-session-taught-my-data-model-6ef03119fa6f?source=rss-af64049c9005------2) 
 
 - [Building DotShredzilla &lpar;Part 3&rpar;: What a Real Gym Session Taught My Data Model](https://dev.to/freerave/building-dotshredzilla-part-3-what-a-real-gym-session-taught-my-data-model-1ng7) 
-
-- [DotShare Part 2: Review, receipts, and an encrypted publishing library](https://dev.to/freerave/dotshare-part-2-review-receipts-and-an-encrypted-publishing-library-491h) 
-
-- [Building DotShredzilla &lpar;Part 1&rpar;: The Best Sign-In Screen Is the One You See Once](https://freerave.medium.com/building-dotshredzilla-part-1-the-best-sign-in-screen-is-the-one-you-see-once-b3f077b14266?source=rss-af64049c9005------2) 
-
-- [Building DotShredzilla &lpar;Part 1&rpar;: The Best Sign-In Screen Is the One You See Once](https://dev.to/freerave/building-dotshredzilla-part-1-the-best-sign-in-screen-is-the-one-you-see-once-2oaf) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
