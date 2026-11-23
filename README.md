@@ -92,15 +92,15 @@ Also: [DotCommand](https://github.com/kareem2099/dotcommand) (AI terminal histor
 I write about security, developer tooling, and architecture on [dev.to](https://dev.to/freerave) (4,000+ followers).
 
 <!-- BLOG-POST-LIST:START -->
+- [DotShare 3.7: Fixing a token leak, moving OAuth home, and teaching agents to sign in](https://dev.to/freerave/dotshare-37-fixing-a-token-leak-moving-oauth-home-and-teaching-agents-to-sign-in-2aa4) 
+
+- [Building DotShredzilla &lpar;Part 7&rpar;: Logging From the Lock Screen, 36 Free Badges, and the Backup That…](https://freerave.medium.com/building-dotshredzilla-part-7-logging-from-the-lock-screen-36-free-badges-and-the-backup-that-dbc02169f873?source=rss-af64049c9005------2) 
+
 - [Building DotShredzilla &lpar;Part 7&rpar;: Logging From the Lock Screen, 36 Free Badges, and the Backup That Signed Everyone Out](https://dev.to/freerave/building-dotshredzilla-part-7-logging-from-the-lock-screen-36-free-badges-and-the-backup-that-2h55) 
 
 - [Building DotShredzilla &lpar;Part 6&rpar;: Pro Without Forced Ads, and Ad Rewards a Server Can Trust](https://freerave.medium.com/building-dotshredzilla-part-6-pro-without-forced-ads-and-ad-rewards-a-server-can-trust-ef012731ff2a?source=rss-af64049c9005------2) 
 
 - [Building DotShredzilla &lpar;Part 6&rpar;: Pro Without Forced Ads, and Ad Rewards a Server Can Trust](https://dev.to/freerave/building-dotshredzilla-part-6-pro-without-forced-ads-and-ad-rewards-a-server-can-trust-1kpb) 
-
-- [Building DotShredzilla &lpar;Part 5&rpar;: Shipping to Google Play, the Parts Nobody Sees](https://freerave.medium.com/building-dotshredzilla-part-5-shipping-to-google-play-the-parts-nobody-sees-6a0fae469213?source=rss-af64049c9005------2) 
-
-- [Building DotShredzilla &lpar;Part 5&rpar;: Shipping to Google Play, the Parts Nobody Sees](https://dev.to/freerave/building-dotshredzilla-part-5-shipping-to-google-play-the-parts-nobody-sees-15k1) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
