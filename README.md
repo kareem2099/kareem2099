@@ -92,15 +92,15 @@ Also: [DotCommand](https://github.com/kareem2099/dotcommand) (AI terminal histor
 I write about security, developer tooling, and architecture on [dev.to](https://dev.to/freerave) (4,000+ followers).
 
 <!-- BLOG-POST-LIST:START -->
+- [DotShare 3.8.1: Charging for X posts like a card payment](https://dev.to/freerave/dotshare-381-charging-for-x-posts-like-a-card-payment-512p) 
+
 - [DotShare 3.8: X charges per post, so every post now has a receipt](https://dev.to/freerave/dotshare-38-x-charges-per-post-so-every-post-now-has-a-receipt-43pc) 
+
+- [DotShare 3.7: Fixing a token leak, moving OAuth home, and teaching agents to sign in](https://freerave.medium.com/dotshare-3-7-fixing-a-token-leak-moving-oauth-home-and-teaching-agents-to-sign-in-6af8aacd73d8?source=rss-af64049c9005------2) 
 
 - [DotShare 3.7: Fixing a token leak, moving OAuth home, and teaching agents to sign in](https://dev.to/freerave/dotshare-37-fixing-a-token-leak-moving-oauth-home-and-teaching-agents-to-sign-in-2aa4) 
 
 - [Building DotShredzilla &lpar;Part 7&rpar;: Logging From the Lock Screen, 36 Free Badges, and the Backup That…](https://freerave.medium.com/building-dotshredzilla-part-7-logging-from-the-lock-screen-36-free-badges-and-the-backup-that-dbc02169f873?source=rss-af64049c9005------2) 
-
-- [Building DotShredzilla &lpar;Part 7&rpar;: Logging From the Lock Screen, 36 Free Badges, and the Backup That Signed Everyone Out](https://dev.to/freerave/building-dotshredzilla-part-7-logging-from-the-lock-screen-36-free-badges-and-the-backup-that-2h55) 
-
-- [Building DotShredzilla &lpar;Part 6&rpar;: Pro Without Forced Ads, and Ad Rewards a Server Can Trust](https://freerave.medium.com/building-dotshredzilla-part-6-pro-without-forced-ads-and-ad-rewards-a-server-can-trust-ef012731ff2a?source=rss-af64049c9005------2) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
