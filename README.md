@@ -92,6 +92,8 @@ Also: [DotCommand](https://github.com/kareem2099/dotcommand) (AI terminal histor
 I write about security, developer tooling, and architecture on [dev.to](https://dev.to/freerave) (4,000+ followers).
 
 <!-- BLOG-POST-LIST:START -->
+- [Teaching a file converter to listen and to read](https://dev.to/freerave/teaching-a-file-converter-to-listen-and-to-read-2mb3) 
+
 - [Shipping a Linux app five ways from one signed tag](https://dev.to/freerave/shipping-a-linux-app-five-ways-from-one-signed-tag-54kf) 
 
 - [DotShare 3.8.1: Charging for X posts like a card payment](https://dev.to/freerave/dotshare-381-charging-for-x-posts-like-a-card-payment-512p) 
@@ -99,8 +101,6 @@ I write about security, developer tooling, and architecture on [dev.to](https://
 - [DotShare 3.8: X charges per post, so every post now has a receipt](https://dev.to/freerave/dotshare-38-x-charges-per-post-so-every-post-now-has-a-receipt-43pc) 
 
 - [DotShare 3.7: Fixing a token leak, moving OAuth home, and teaching agents to sign in](https://freerave.medium.com/dotshare-3-7-fixing-a-token-leak-moving-oauth-home-and-teaching-agents-to-sign-in-6af8aacd73d8?source=rss-af64049c9005------2) 
-
-- [DotShare 3.7: Fixing a token leak, moving OAuth home, and teaching agents to sign in](https://dev.to/freerave/dotshare-37-fixing-a-token-leak-moving-oauth-home-and-teaching-agents-to-sign-in-2aa4) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
